@@ -23,7 +23,7 @@ namespace Editor
 
             Debug.Log("Starting TOU asset bundle build...");
 
-            BuildBundle("tou-assets-windows.bundle", BuildTarget.StandaloneWindows);
+            BuildBundle("tou-assets-win.bundle", BuildTarget.StandaloneWindows);
 
             Debug.Log("Finished building WINDOWS asset bundle. Starting ANDROID build...");
 
