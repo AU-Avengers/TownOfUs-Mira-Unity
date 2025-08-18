@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: 770fcbb90e79e564882f4cec121af6c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8509166370882915344
+    second: MayorRevealOutfit_0
+  - first:
+      213: -5699707099046221958
+    second: MayorRevealOutfit_1
+  - first:
+      213: -7727169928164298547
+    second: MayorRevealOutfit_2
+  - first:
+      213: -3934280249756650646
+    second: MayorRevealOutfit_3
+  - first:
+      213: -375302207821612856
+    second: MayorRevealOutfit_4
+  - first:
+      213: -8820290405163141247
+    second: MayorRevealOutfit_5
+  - first:
+      213: -6456274893343292199
+    second: MayorRevealOutfit_6
+  - first:
+      213: 996814493235087245
+    second: MayorRevealOutfit_7
+  - first:
+      213: -886155142323235341
+    second: MayorRevealOutfit_8
+  - first:
+      213: -1207745853005244614
+    second: MayorRevealOutfit_9
+  - first:
+      213: 183329846463954021
+    second: MayorRevealOutfit_10
+  - first:
+      213: -3530714294423406536
+    second: MayorRevealOutfit_11
+  - first:
+      213: -3827884305336694361
+    second: MayorRevealOutfit_12
+  - first:
+      213: -8517781546608941526
+    second: MayorRevealOutfit_13
+  - first:
+      213: 8323828956628905991
+    second: MayorRevealOutfit_14
+  - first:
+      213: -4054315674799815105
+    second: MayorRevealOutfit_15
+  - first:
+      213: 6025057865164104556
+    second: MayorRevealOutfit_16
+  - first:
+      213: -566679949522774637
+    second: MayorRevealOutfit_17
+  - first:
+      213: -1685245675270934272
+    second: MayorRevealOutfit_18
+  - first:
+      213: 7303475080065464018
+    second: MayorRevealOutfit_19
+  - first:
+      213: 7387520923709580852
+    second: MayorRevealOutfit_20
+  - first:
+      213: -2981508924049601844
+    second: MayorRevealOutfit_21
+  - first:
+      213: -9183134271270568327
+    second: MayorRevealOutfit_22
+  - first:
+      213: 1436856465949132388
+    second: MayorRevealOutfit_23
+  - first:
+      213: 695518696157673518
+    second: MayorRevealOutfit_24
+  - first:
+      213: 1537939103513227051
+    second: MayorRevealOutfit_25
+  - first:
+      213: 3122528416865503684
+    second: MayorRevealOutfit_26
+  - first:
+      213: 4916072829871774488
+    second: MayorRevealOutfit_27
+  - first:
+      213: 1015857397565409829
+    second: MayorRevealOutfit_28
+  - first:
+      213: -3470034391871984981
+    second: MayorRevealOutfit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MayorRevealOutfit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3f2d8e44e59e980800000000000000
+      internalID: -8509166370882915344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77e39d779296e0b0800000000000000
+      internalID: -5699707099046221958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0bfa004e393c490800000000000000
+      internalID: -7727169928164298547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_3
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a637b6225f0a669c0800000000000000
+      internalID: -3934280249756650646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c87f5361a8aacaf0800000000000000
+      internalID: -375302207821612856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_5
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187f670cb98089580800000000000000
+      internalID: -8820290405163141247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4000af034b666a0800000000000000
+      internalID: -6456274893343292199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d870d30108565dd00800000000000000
+      internalID: 996814493235087245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f510f5d79eb3b3f0800000000000000
+      internalID: -886155142323235341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_9
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37dbacab893d3fe0800000000000000
+      internalID: -1207745853005244614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_10
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf53726815b8200800000000000000
+      internalID: 183329846463954021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_11
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838bf754e02600fc0800000000000000
+      internalID: -3530714294423406536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a90d1b518f90eac0800000000000000
+      internalID: -3827884305336694361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a262fffffc2cac980800000000000000
+      internalID: -8517781546608941526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700f9f2a55e248370800000000000000
+      internalID: 8323828956628905991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_15
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36424cdf5d2cb7c0800000000000000
+      internalID: -4054315674799815105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_16
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63a74cc43e4d9350800000000000000
+      internalID: 6025057865164104556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_17
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395db5b969fb228f0800000000000000
+      internalID: -566679949522774637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017636bcfdcc98e0800000000000000
+      internalID: -1685245675270934272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6383dc3e72b5560800000000000000
+      internalID: 7303475080065464018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a97ca32fb58660800000000000000
+      internalID: 7387520923709580852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_21
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccacd572e6d8f96d0800000000000000
+      internalID: -2981508924049601844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_22
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eb33cd804fe8080800000000000000
+      internalID: -9183134271270568327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_23
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4660f1ec75db0f310800000000000000
+      internalID: 1436856465949132388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28fe13b19af6a900800000000000000
+      internalID: 695518696157673518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fa61f577bd75510800000000000000
+      internalID: 1537939103513227051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9c4502d03755b20800000000000000
+      internalID: 3122528416865503684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bd47a3136693440800000000000000
+      internalID: 4916072829871774488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_28
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ac65cbbec091e00800000000000000
+      internalID: 1015857397565409829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealOutfit_29
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baae41a0b16f7dfc0800000000000000
+      internalID: -3470034391871984981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MayorRevealOutfit_0: -8509166370882915344
+      MayorRevealOutfit_1: -5699707099046221958
+      MayorRevealOutfit_10: 183329846463954021
+      MayorRevealOutfit_11: -3530714294423406536
+      MayorRevealOutfit_12: -3827884305336694361
+      MayorRevealOutfit_13: -8517781546608941526
+      MayorRevealOutfit_14: 8323828956628905991
+      MayorRevealOutfit_15: -4054315674799815105
+      MayorRevealOutfit_16: 6025057865164104556
+      MayorRevealOutfit_17: -566679949522774637
+      MayorRevealOutfit_18: -1685245675270934272
+      MayorRevealOutfit_19: 7303475080065464018
+      MayorRevealOutfit_2: -7727169928164298547
+      MayorRevealOutfit_20: 7387520923709580852
+      MayorRevealOutfit_21: -2981508924049601844
+      MayorRevealOutfit_22: -9183134271270568327
+      MayorRevealOutfit_23: 1436856465949132388
+      MayorRevealOutfit_24: 695518696157673518
+      MayorRevealOutfit_25: 1537939103513227051
+      MayorRevealOutfit_26: 3122528416865503684
+      MayorRevealOutfit_27: 4916072829871774488
+      MayorRevealOutfit_28: 1015857397565409829
+      MayorRevealOutfit_29: -3470034391871984981
+      MayorRevealOutfit_3: -3934280249756650646
+      MayorRevealOutfit_4: -375302207821612856
+      MayorRevealOutfit_5: -8820290405163141247
+      MayorRevealOutfit_6: -6456274893343292199
+      MayorRevealOutfit_7: 996814493235087245
+      MayorRevealOutfit_8: -886155142323235341
+      MayorRevealOutfit_9: -1207745853005244614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: tou-assets-win
+  assetBundleVariant: bundle

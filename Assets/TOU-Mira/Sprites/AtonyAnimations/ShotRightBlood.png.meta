@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 99003ef8b62b46c4b95c33f4bc76f836
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 199468443548432953
+    second: ShotRightBlood_0
+  - first:
+      213: 6356695007302969518
+    second: ShotRightBlood_1
+  - first:
+      213: 6555232024830099608
+    second: ShotRightBlood_2
+  - first:
+      213: 8465052132956199124
+    second: ShotRightBlood_3
+  - first:
+      213: -6004011431729627216
+    second: ShotRightBlood_4
+  - first:
+      213: 7001120704576110703
+    second: ShotRightBlood_5
+  - first:
+      213: -3463936333273982986
+    second: ShotRightBlood_6
+  - first:
+      213: -3916043645335295356
+    second: ShotRightBlood_7
+  - first:
+      213: 7281316129446941783
+    second: ShotRightBlood_8
+  - first:
+      213: -7932572443332211185
+    second: ShotRightBlood_9
+  - first:
+      213: 2097081281823319571
+    second: ShotRightBlood_10
+  - first:
+      213: 251896642622142342
+    second: ShotRightBlood_11
+  - first:
+      213: 830018752187524978
+    second: ShotRightBlood_12
+  - first:
+      213: -5148101787884589026
+    second: ShotRightBlood_13
+  - first:
+      213: -675734558981275830
+    second: ShotRightBlood_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShotRightBlood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aba991e77a4c200800000000000000
+      internalID: 199468443548432953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8eacf0e64873850800000000000000
+      internalID: 6356695007302969518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8904344abccd8fa50800000000000000
+      internalID: 6555232024830099608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_3
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8540ea018e97570800000000000000
+      internalID: 8465052132956199124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bffe58d9677daca0800000000000000
+      internalID: -6004011431729627216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6044e1ff2af82160800000000000000
+      internalID: 7001120704576110703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f792a2f140adefc0800000000000000
+      internalID: -3463936333273982986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_7
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2dda7d0b67a9c0800000000000000
+      internalID: -3916043645335295356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_8
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754d101117e6c0560800000000000000
+      internalID: 7281316129446941783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_9
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e81203467d9e190800000000000000
+      internalID: -7932572443332211185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3162334a0545a1d10800000000000000
+      internalID: 2097081281823319571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6873b9f69aaee7300800000000000000
+      internalID: 251896642622142342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277ec0158a1d48b00800000000000000
+      internalID: 830018752187524978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_13
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10f59123b44e88b0800000000000000
+      internalID: -5148101787884589026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotRightBlood_14
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f3771bffe4f96f0800000000000000
+      internalID: -675734558981275830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4f7cfcbd3783cc54990efaa8ec86a2cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShotRightBlood_0: 199468443548432953
+      ShotRightBlood_1: 6356695007302969518
+      ShotRightBlood_10: 2097081281823319571
+      ShotRightBlood_11: 251896642622142342
+      ShotRightBlood_12: 830018752187524978
+      ShotRightBlood_13: -5148101787884589026
+      ShotRightBlood_14: -675734558981275830
+      ShotRightBlood_2: 6555232024830099608
+      ShotRightBlood_3: 8465052132956199124
+      ShotRightBlood_4: -6004011431729627216
+      ShotRightBlood_5: 7001120704576110703
+      ShotRightBlood_6: -3463936333273982986
+      ShotRightBlood_7: -3916043645335295356
+      ShotRightBlood_8: 7281316129446941783
+      ShotRightBlood_9: -7932572443332211185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: tou-assets-win
+  assetBundleVariant: bundle

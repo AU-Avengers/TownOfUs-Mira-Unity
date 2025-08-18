@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: 41fd7f4c866a8f54aaccab8134506254
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6741901690021553513
+    second: MayorRevealPlayer_0
+  - first:
+      213: 4747505389161483832
+    second: MayorRevealPlayer_1
+  - first:
+      213: -1963891849319648052
+    second: MayorRevealPlayer_2
+  - first:
+      213: -5831814080603231454
+    second: MayorRevealPlayer_3
+  - first:
+      213: -2766126423902386709
+    second: MayorRevealPlayer_4
+  - first:
+      213: 4476920958301756556
+    second: MayorRevealPlayer_5
+  - first:
+      213: -8600365634319376198
+    second: MayorRevealPlayer_6
+  - first:
+      213: 573799625730278898
+    second: MayorRevealPlayer_7
+  - first:
+      213: -1012507717244227349
+    second: MayorRevealPlayer_8
+  - first:
+      213: -9179837788155613475
+    second: MayorRevealPlayer_9
+  - first:
+      213: -2034736424545503289
+    second: MayorRevealPlayer_10
+  - first:
+      213: -1743911576447629308
+    second: MayorRevealPlayer_11
+  - first:
+      213: -1546210785184205218
+    second: MayorRevealPlayer_12
+  - first:
+      213: 6862330190546479086
+    second: MayorRevealPlayer_13
+  - first:
+      213: -7035679963517530328
+    second: MayorRevealPlayer_14
+  - first:
+      213: 1056981032954778241
+    second: MayorRevealPlayer_15
+  - first:
+      213: 2152488590849793539
+    second: MayorRevealPlayer_16
+  - first:
+      213: 8771203278623345236
+    second: MayorRevealPlayer_17
+  - first:
+      213: 2228900778515753483
+    second: MayorRevealPlayer_18
+  - first:
+      213: 4503000400964485000
+    second: MayorRevealPlayer_19
+  - first:
+      213: -6504794745762771859
+    second: MayorRevealPlayer_20
+  - first:
+      213: 3334965915360395457
+    second: MayorRevealPlayer_21
+  - first:
+      213: 6089997261743524293
+    second: MayorRevealPlayer_22
+  - first:
+      213: 6749205003183096460
+    second: MayorRevealPlayer_23
+  - first:
+      213: 7378793289535479306
+    second: MayorRevealPlayer_24
+  - first:
+      213: 3089899579812060257
+    second: MayorRevealPlayer_25
+  - first:
+      213: -263660573720923944
+    second: MayorRevealPlayer_26
+  - first:
+      213: 139787902779168318
+    second: MayorRevealPlayer_27
+  - first:
+      213: -3964044982904990716
+    second: MayorRevealPlayer_28
+  - first:
+      213: -1228124130414071234
+    second: MayorRevealPlayer_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MayorRevealPlayer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad8af0224ff62a0800000000000000
+      internalID: -6741901690021553513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e09328ff682e140800000000000000
+      internalID: 4747505389161483832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47408a4cadeb4e0800000000000000
+      internalID: -1963891849319648052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_3
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22be581fdfb311fa0800000000000000
+      internalID: -5831814080603231454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be50a7b4caebc99d0800000000000000
+      internalID: -2766126423902386709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_5
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 688
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cd31f44e7312e30800000000000000
+      internalID: 4476920958301756556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0aae3b50d55a880800000000000000
+      internalID: -8600365634319376198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c7ef28bb86f700800000000000000
+      internalID: 573799625730278898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0f05d7899d2f1f0800000000000000
+      internalID: -1012507717244227349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_9
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee6452b2aaa9080800000000000000
+      internalID: -9179837788155613475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_10
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7ba6b900a23c3e0800000000000000
+      internalID: -2034736424545503289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_11
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 516
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c52e29a16cc7e0800000000000000
+      internalID: -1743911576447629308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56b739ab71ca8ae0800000000000000
+      internalID: -1546210785184205218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee726fa33f4eb3f50800000000000000
+      internalID: 6862330190546479086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f443d895e3c5e90800000000000000
+      internalID: -7035679963517530328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_15
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182589b36a62bae00800000000000000
+      internalID: 1056981032954778241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_16
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30edea018fc2fdd10800000000000000
+      internalID: 2152488590849793539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_17
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 344
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a061bf8e299b970800000000000000
+      internalID: 8771203278623345236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ae507e275aeee10800000000000000
+      internalID: 2228900778515753483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ffdeab10fdd7e30800000000000000
+      internalID: 4503000400964485000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c8bf184a35ab5a0800000000000000
+      internalID: -6504794745762771859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_21
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c08713a4dd284e20800000000000000
+      internalID: 3334965915360395457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_22
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9035d4e34048450800000000000000
+      internalID: 6089997261743524293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_23
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 172
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82840b013ef9ad50800000000000000
+      internalID: 6749205003183096460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5ccdf66db66660800000000000000
+      internalID: 7378793289535479306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c935efb4781ea20800000000000000
+      internalID: 3089899579812060257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0b61aea1a475cf0800000000000000
+      internalID: -263660573720923944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e369c016b50a0f100800000000000000
+      internalID: 139787902779168318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_28
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40457482712ecf8c0800000000000000
+      internalID: -3964044982904990716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealPlayer_29
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 296
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32759a3c93d4fee0800000000000000
+      internalID: -1228124130414071234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MayorRevealPlayer_0: -6741901690021553513
+      MayorRevealPlayer_1: 4747505389161483832
+      MayorRevealPlayer_10: -2034736424545503289
+      MayorRevealPlayer_11: -1743911576447629308
+      MayorRevealPlayer_12: -1546210785184205218
+      MayorRevealPlayer_13: 6862330190546479086
+      MayorRevealPlayer_14: -7035679963517530328
+      MayorRevealPlayer_15: 1056981032954778241
+      MayorRevealPlayer_16: 2152488590849793539
+      MayorRevealPlayer_17: 8771203278623345236
+      MayorRevealPlayer_18: 2228900778515753483
+      MayorRevealPlayer_19: 4503000400964485000
+      MayorRevealPlayer_2: -1963891849319648052
+      MayorRevealPlayer_20: -6504794745762771859
+      MayorRevealPlayer_21: 3334965915360395457
+      MayorRevealPlayer_22: 6089997261743524293
+      MayorRevealPlayer_23: 6749205003183096460
+      MayorRevealPlayer_24: 7378793289535479306
+      MayorRevealPlayer_25: 3089899579812060257
+      MayorRevealPlayer_26: -263660573720923944
+      MayorRevealPlayer_27: 139787902779168318
+      MayorRevealPlayer_28: -3964044982904990716
+      MayorRevealPlayer_29: -1228124130414071234
+      MayorRevealPlayer_3: -5831814080603231454
+      MayorRevealPlayer_4: -2766126423902386709
+      MayorRevealPlayer_5: 4476920958301756556
+      MayorRevealPlayer_6: -8600365634319376198
+      MayorRevealPlayer_7: 573799625730278898
+      MayorRevealPlayer_8: -1012507717244227349
+      MayorRevealPlayer_9: -9179837788155613475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: tou-assets-win
+  assetBundleVariant: bundle
