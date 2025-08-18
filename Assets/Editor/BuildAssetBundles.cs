@@ -23,11 +23,11 @@ namespace Editor
 
             Debug.Log("Starting TOU asset bundle build...");
 
-            BuildBundle("tou-mira-windows", BuildTarget.StandaloneWindows);
+            BuildBundle("tou-assets-windows", BuildTarget.StandaloneWindows);
 
             Debug.Log("Finished building WINDOWS asset bundle. Starting ANDROID build...");
 
-            BuildBundle("tou-mira-android", BuildTarget.Android);
+            BuildBundle("tou-assets-android", BuildTarget.Android);
 
             Debug.Log("Finished building ANDROID asset bundle.");
 
