@@ -266,6 +266,7 @@ GameObject:
   - component: {fileID: 1979173968818764818}
   - component: {fileID: 1979173968818764820}
   - component: {fileID: 1979173968818764821}
+  - component: {fileID: 3178070556634578382}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -426,6 +427,22 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_renderer: {fileID: 1979173968818764820}
   m_maskType: 0
+--- !u!114 &3178070556634578382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979173968818764819}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ab69e25f6d1874d8346097fe116e64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stringName: BackButtonText
+  defaultStr: Back
+  parseStr: 0
+  resetWithoutDefault: 0
 --- !u!1 &1979173968923658429
 GameObject:
   m_ObjectHideFlags: 0
@@ -939,6 +956,7 @@ GameObject:
   - component: {fileID: 1979173969117414066}
   - component: {fileID: 1979173969117414068}
   - component: {fileID: 1979173969117414069}
+  - component: {fileID: 5358653004407602771}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -1099,6 +1117,22 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_renderer: {fileID: 1979173969117414068}
   m_maskType: 0
+--- !u!114 &5358653004407602771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979173969117414067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ab69e25f6d1874d8346097fe116e64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stringName: Roles
+  defaultStr: Roles
+  parseStr: 0
+  resetWithoutDefault: 0
 --- !u!1 &1979173969164595972
 GameObject:
   m_ObjectHideFlags: 0
@@ -1371,6 +1405,7 @@ GameObject:
   - component: {fileID: 1979173969247363594}
   - component: {fileID: 1979173969247363595}
   - component: {fileID: 4032982129296925998}
+  - component: {fileID: 4823677948796930385}
   m_Layer: 5
   m_Name: BackButton
   m_TagString: Untagged
@@ -1557,6 +1592,22 @@ MonoBehaviour:
   UseObjectsOutColor: 0
   UseObjectSelected: 0
   HoverSound: {fileID: 0}
+--- !u!114 &4823677948796930385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979173969247363702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ab69e25f6d1874d8346097fe116e64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stringName: BackButtonText
+  defaultStr: Back
+  parseStr: 0
+  resetWithoutDefault: 0
 --- !u!1 &1979173969253033709
 GameObject:
   m_ObjectHideFlags: 0
@@ -2050,6 +2101,7 @@ GameObject:
   - component: {fileID: 1979173969305029511}
   - component: {fileID: 1979173969305029529}
   - component: {fileID: 1979173969305029510}
+  - component: {fileID: 9178230206459315282}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -2210,6 +2262,22 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_renderer: {fileID: 1979173969305029529}
   m_maskType: 0
+--- !u!114 &9178230206459315282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979173969305029508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ab69e25f6d1874d8346097fe116e64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stringName: Modifiers
+  defaultStr: Modifiers
+  parseStr: 0
+  resetWithoutDefault: 0
 --- !u!1 &1979173969322059234
 GameObject:
   m_ObjectHideFlags: 0
@@ -5630,6 +5698,7 @@ GameObject:
   - component: {fileID: 1254514549107735569}
   - component: {fileID: 134306618164301565}
   - component: {fileID: 893570606603631762}
+  - component: {fileID: 2488693567862712678}
   m_Layer: 5
   m_Name: Text (TMP) (1)
   m_TagString: Untagged
@@ -5790,6 +5859,22 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_renderer: {fileID: 134306618164301565}
   m_maskType: 0
+--- !u!114 &2488693567862712678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4145880759913254331}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ab69e25f6d1874d8346097fe116e64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stringName: SearchboxHeadsUp
+  defaultStr: Search here
+  parseStr: 0
+  resetWithoutDefault: 0
 --- !u!1 &5598073073574957189
 GameObject:
   m_ObjectHideFlags: 0
