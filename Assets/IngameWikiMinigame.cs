@@ -10,6 +10,8 @@ namespace TownOfUs.Modules.Wiki
         public Transform Homepage;
         public PassiveButton HomepageModifiersBtn;
         public PassiveButton HomepageRolesBtn;
+        public PassiveButton HomepageTermsBtn;
+        public PassiveButton HomepageSettingsBtn;
         public PassiveButton CloseButton;
         public PassiveButton OutsideCloseButton;
 
@@ -29,6 +31,15 @@ namespace TownOfUs.Modules.Wiki
         public PassiveButton DetailScreenBackBtn;
         public SpriteRenderer DetailScreenIcon;
         public TextMeshPro DetailScreenItemName;
+
+        public Transform TermsScreen;
+        public TextMeshPro TermsDescription;
+        public PassiveButton TermsPreviousBtn;
+        public PassiveButton TermsNextBtn;
+        public PassiveButton TermsBackBtn;
+        public SpriteRenderer TermsScreenIcon;
+        public TextMeshPro TermsScreenSectionName;
+        public TextMeshPro TermsScreenTabCount;
     }
    
 }
