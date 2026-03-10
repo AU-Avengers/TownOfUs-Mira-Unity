@@ -40,6 +40,15 @@ namespace TownOfUs.Modules.Wiki
         public SpriteRenderer TermsScreenIcon;
         public TextMeshPro TermsScreenSectionName;
         public TextMeshPro TermsScreenTabCount;
+
+        public Transform SettingsScreen;
+        public TextMeshPro SettingsDescription;
+        public PassiveButton SettingsPreviousBtn;
+        public PassiveButton SettingsNextBtn;
+        public PassiveButton SettingsBackBtn;
+        public SpriteRenderer SettingsScreenIcon;
+        public TextMeshPro SettingsScreenSectionName;
+        public TextMeshPro SettingsScreenTabCount;
     }
    
 }
