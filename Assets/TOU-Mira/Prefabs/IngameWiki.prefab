@@ -2275,7 +2275,7 @@ MonoBehaviour:
   SearchScreenBackBtn: {fileID: 1979173970022549254}
   SearchTextbox: {fileID: 1979173969784296261}
   SearchScroller: {fileID: 1979173970094812289}
-  SearchItemTemplate: {fileID: 1979173969876377452}
+  SearchItemTemplate: {fileID: 3357005022787313009}
   SearchPageIcon: {fileID: 1979173969401194796}
   SearchPageText: {fileID: 1979173969826950374}
   DetailScreen: {fileID: 1979173969115486730}
@@ -5587,6 +5587,7 @@ GameObject:
   - component: {fileID: 1979173969876377440}
   - component: {fileID: 1979173969876377441}
   - component: {fileID: 1979173969876377454}
+  - component: {fileID: 3357005022787313009}
   m_Layer: 5
   m_Name: Item
   m_TagString: Untagged
@@ -5781,6 +5782,24 @@ MonoBehaviour:
   UseObjectsOutColor: 0
   UseObjectSelected: 0
   HoverSound: {fileID: 0}
+--- !u!114 &3357005022787313009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979173969876377453}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6403729439d1524d8383b01bf7709d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EntryIconRenderer: {fileID: 1979173970636746032}
+  EntryNameTmp: {fileID: 1979173969784842785}
+  EntryTeamTmp: {fileID: 1979173969231880290}
+  EntryColorRenderer: {fileID: 4441794496240965112}
+  EntryAmountTmp: {fileID: 7940843693074247187}
+  EntrySourceTmp: {fileID: 2796940855651662951}
 --- !u!1 &1979173969938250790
 GameObject:
   m_ObjectHideFlags: 0
