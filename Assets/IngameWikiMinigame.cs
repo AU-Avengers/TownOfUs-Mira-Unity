@@ -19,7 +19,8 @@ namespace TownOfUs.Modules.Wiki
         public PassiveButton SearchScreenBackBtn;
         public TextBoxTMP SearchTextbox;
         public Scroller SearchScroller;
-        public InGameWikiEntry SearchItemTemplate;
+        public InGameModifierWikiEntry ModifierSearchItemTemplate;
+        public InGameRoleWikiEntry RoleSearchItemTemplate;
         public SpriteRenderer SearchPageIcon;
         public TextMeshPro SearchPageText;
 

@@ -3,7 +3,7 @@ using TMPro;
 
 namespace TownOfUs.Modules.Wiki
 {
-    public class InGameWikiEntry : MonoBehaviour
+    public class InGameRoleWikiEntry : MonoBehaviour
     {
         public SpriteRenderer EntryIconRenderer;
         public TextMeshPro EntryNameTmp;
@@ -11,6 +11,8 @@ namespace TownOfUs.Modules.Wiki
         public SpriteRenderer EntryColorRenderer;
         public TextMeshPro EntryAmountTmp;
         public TextMeshPro EntrySourceTmp;
+        public ButtonRolloverHandler RolloverHandler;
+        public SpriteRenderer ButtonRenderer;
     }
 
 }
