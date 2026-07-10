@@ -155,7 +155,7 @@ Transform:
   - {fileID: 2443586394028066253}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3428443058927111684
+--- !u!114 &2162617659070306592
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8775806818587405320}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2c4334b081b6c324d8de41cbf3dd3bd5, type: 3}
+  m_Script: {fileID: -929736509, guid: d39c3996e7501db93aef5ef139eb6b94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   SpawnId: 101
@@ -176,9 +176,9 @@ MonoBehaviour:
   DespawnOnDestroy: 0
   Owner: {fileID: 0}
   Rigidbody: {fileID: 8775806818587405321}
-  NetTransform: {fileID: 2162617659070306592}
+  NetTransform: {fileID: 3428443058927111684}
   Rend: {fileID: 4364026512055107250}
---- !u!114 &2162617659070306592
+--- !u!114 &3428443058927111684
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -187,7 +187,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8775806818587405320}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6288f2c4787463646808d71cda12995f, type: 3}
+  m_Script: {fileID: -2114410248, guid: d39c3996e7501db93aef5ef139eb6b94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   SpawnId: 101
@@ -197,6 +197,7 @@ MonoBehaviour:
   sendMode: 0
   OwnerId: 0
   DespawnOnDestroy: 0
+  body: {fileID: 8775806818587405321}
 --- !u!50 &8775806818587405321
 Rigidbody2D:
   serializedVersion: 4
