@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 782b0462be339d04a9544c613677cd3c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pros Gavel_20260730141539
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 511
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 354, y: -375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79cbea4ab60f0a4ebc3a990e959b2c8
+      internalID: -363942547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Gavel_20260730141541
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 511
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 354, y: -375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab9b103e8ca90a479a7a8f884822b7f
+      internalID: 530185575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Gavel_20260730141544
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 172
+        width: 85
+        height: 118
+      alignment: 9
+      pivot: {x: -2.0470588, y: 1.0254238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7703ac919536eac4c9ed8272c9a17920
+      internalID: -1570762974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Gavel_20260730141546
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 340
+        width: 172
+        height: 172
+      alignment: 9
+      pivot: {x: -0.9011628, y: 0.27325583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be435c19fbf93804890b99d4ad457568
+      internalID: -314447438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Gavel_20260730141548
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 159
+        width: 182
+        height: 196
+      alignment: 9
+      pivot: {x: -0.23076923, y: 0.2244898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0034e729e8a3b40469bbeb8aeabc3669
+      internalID: 751076750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Gavel_20260730141550
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 281
+        width: 180
+        height: 231
+      alignment: 9
+      pivot: {x: 0.79444444, y: 1.1558442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f820cf945b3af9f4eb7ff5d8f54d0b28
+      internalID: -1001564129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Gavel_20260730141553
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 75
+        width: 204
+        height: 215
+      alignment: 9
+      pivot: {x: 1.6029412, y: 1.5302325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569742f4c4153f84785b2a7dabb64d85
+      internalID: 1487502348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Gavel_20260730141555
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 203
+        height: 226
+      alignment: 9
+      pivot: {x: 1.7142857, y: 1.5309734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb156f8b82f0d4089ac49d2edff810
+      internalID: -467506366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Gavel_20260730141557
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 290
+        width: 207
+        height: 222
+      alignment: 9
+      pivot: {x: 1.6956521, y: 1.5495496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f97e11dd6037e7429c9fb9e7e84d644
+      internalID: -1971682169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Gavel_20260730141558
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 208
+        height: 229
+      alignment: 9
+      pivot: {x: 1.6971154, y: 1.5458515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e705f56bf8c9e148af520590d52b04b
+      internalID: -1471901500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 064ad5e89d6ef5e498e8c701cb645e0a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pros Gavel_20260730141539: -363942547
+      Pros Gavel_20260730141541: 530185575
+      Pros Gavel_20260730141544: -1570762974
+      Pros Gavel_20260730141546: -314447438
+      Pros Gavel_20260730141548: 751076750
+      Pros Gavel_20260730141550: -1001564129
+      Pros Gavel_20260730141553: 1487502348
+      Pros Gavel_20260730141555: -467506366
+      Pros Gavel_20260730141557: -1971682169
+      Pros Gavel_20260730141558: -1471901500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

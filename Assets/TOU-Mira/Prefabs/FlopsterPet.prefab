@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22598f5430294c853dac9eedd8434e84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_defaultAnim: {fileID: 7400000, guid: 74fb83266eb9c434bb5adc3e5bb1a19c, type: 2}
+  m_defaultAnim: {fileID: 7400000, guid: ad39a174f23e4c64ba379ea17c171c01, type: 2}
 --- !u!114 &6033108196324818264
 MonoBehaviour:
   m_ObjectHideFlags: 0

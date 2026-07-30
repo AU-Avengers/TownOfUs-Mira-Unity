@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: c6b460a9bc9611b48897bb55505f7118
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pros Hand Front_20260730134947
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 229
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 240, y: -247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e20845859a3a94c89b086ec0e8dd8e
+      internalID: -1600124331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Hand Front_20260730134948
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 229
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 240, y: -247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec1a7c7bb26caf4f974ef08a0cab282
+      internalID: -1688326927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Hand Front_20260730134951
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 229
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 240, y: -247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448630e0be30f7478b335adb5fe25d9
+      internalID: 164017508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Hand Front_20260730134954
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 229
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 240, y: -247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c0b37e9e247d04881d2ef2d956e856
+      internalID: 1736556087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Hand Front_20260730134958
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 253
+        height: 174
+      alignment: 9
+      pivot: {x: 0.0513834, y: 1.4252874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721275cff998f6843bec660653651847
+      internalID: 1510680910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Hand Front_20260730135001
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2
+        width: 312
+        height: 227
+      alignment: 9
+      pivot: {x: 0.4551282, y: 0.6872247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f6815db51f96442ab61f8a9813198a
+      internalID: 2111216806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Hand Front_20260730135004
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 194
+        width: 394
+        height: 318
+      alignment: 9
+      pivot: {x: 0.48477158, y: 0.3710692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc09c1671b9d0b4eaea6102e3b55eb0
+      internalID: -960227541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Hand Front_20260730135007
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 177
+        width: 411
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5352798, y: 0.2597015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6a23bcabed98d40b81425a6bda5222
+      internalID: -1492337215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Hand Front_20260730135010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 415
+        height: 343
+      alignment: 9
+      pivot: {x: 0.54698795, y: 0.27988338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998f801a59e14c14cbf1e4efbb762bd5
+      internalID: 1731759495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pros Hand Front_20260730135013
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 178
+        width: 412
+        height: 334
+      alignment: 9
+      pivot: {x: 0.5436893, y: 0.28143713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a201faffd1ab743a668c24c426495f
+      internalID: 130308530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7a46837b168104f4ba6120474594c80b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pros Hand Front_20260730134947: -1600124331
+      Pros Hand Front_20260730134948: -1688326927
+      Pros Hand Front_20260730134951: 164017508
+      Pros Hand Front_20260730134954: 1736556087
+      Pros Hand Front_20260730134958: 1510680910
+      Pros Hand Front_20260730135001: 2111216806
+      Pros Hand Front_20260730135004: -960227541
+      Pros Hand Front_20260730135007: -1492337215
+      Pros Hand Front_20260730135010: 1731759495
+      Pros Hand Front_20260730135013: 130308530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
