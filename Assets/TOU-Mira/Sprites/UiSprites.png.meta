@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 263434918dc01af45961b7063d38163f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 101
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChatImpBubble
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 24
+        width: 74
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50714284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45a86602f83d5346b79cc1665fa44ec
+      internalID: -902057418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatJailBubble
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 124
+        width: 70
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4765625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e57d90a3931034a9d921e6541ee46f
+      internalID: -1976066218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatLoveBubble
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 31
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4346afde10815409b18768fd0dd4ee
+      internalID: 913440224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatNormalBubble
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 8
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6174fcb11af6c4db26ce69a6480541
+      internalID: -1092847197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatVampBubble
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 69
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704355581b9c84347852f9ea12cc3161
+      internalID: 682842368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoveChatHover
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 94
+        width: 102
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e288921a49f88741b8eaf72dd6ee974
+      internalID: -677201962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoveChatIdle
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 94
+        width: 102
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e54d740fb228347ac0e067c933f800
+      internalID: 874532287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoveChatOpen
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 94
+        width: 102
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d425badf4d98c24d8b078a3f84b1c40
+      internalID: 724875934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minus
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2
+        width: 99
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5054348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c1b74617e1c224f9237fbae639dffe
+      internalID: 1720019056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinusActive
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2
+        width: 99
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5054348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b91d0756b99b2e45ab8430a13e32ac1
+      internalID: 229718436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalChatHover
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 94
+        width: 102
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee8666a133f8fa44bc6fef20b8addb5
+      internalID: -1815713528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalChatIdle
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 94
+        width: 102
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cee9096cbcb0d44b4e7cc19f87e503
+      internalID: 367181600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalChatOpen
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 94
+        width: 102
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c752026bae70084c9633cf34bf2b370
+      internalID: 310072648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plus
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2
+        width: 99
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5054348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d91a89d54a40c949b66a9cbe77fbaf1
+      internalID: -1616883786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlusActive
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 99
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5054348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212bc1e0929d5ac48b8b8cb88f6c4ca3
+      internalID: -1413253845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamChatHover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a73072f63df3b408b108a97728cbf9
+      internalID: 1045630922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamChatIdle
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 94
+        width: 102
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809ba8105e85d0142b77e2134781313e
+      internalID: 416020907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamChatOpen
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 102
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eed13445c5e0244889cf2b89413e7a1
+      internalID: -216619087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WikiButton
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 99
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5054348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f9562ee5c5758498b17d8c8cce3f67
+      internalID: 1530914907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WikiButtonActive
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 99
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5054348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142c6fa363a28f42892a70085c3996b
+      internalID: 1537901306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 582bcab35e523a64eb1f62239d8f03b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ChatImpBubble: -902057418
+      ChatJailBubble: -1976066218
+      ChatLoveBubble: 913440224
+      ChatNormalBubble: -1092847197
+      ChatVampBubble: 682842368
+      LoveChatHover: -677201962
+      LoveChatIdle: 874532287
+      LoveChatOpen: 724875934
+      Minus: 1720019056
+      MinusActive: 229718436
+      NormalChatHover: -1815713528
+      NormalChatIdle: 367181600
+      NormalChatOpen: 310072648
+      Plus: -1616883786
+      PlusActive: -1413253845
+      TeamChatHover: 1045630922
+      TeamChatIdle: 416020907
+      TeamChatOpen: -216619087
+      WikiButton: 1530914907
+      WikiButtonActive: 1537901306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

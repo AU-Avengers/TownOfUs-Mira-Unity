@@ -1,0 +1,3053 @@
+fileFormatVersion: 2
+guid: 410442f542592f6468c3e70a1069e892
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AdminButton
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 204
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612bb68b1990a6c4a8faa2122614ab21
+      internalID: 200806231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlertButton
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 143
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a78531d22e50a43a8b603aef88dc8b
+      internalID: 1185233747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushButton
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 429
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3282193dc039394c8e5ac1a642e95ae
+      internalID: -1149731704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArsoVentButton
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 985
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c841dabcdb4764782d1cbc779e5616
+      internalID: -236424378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarricadeButton
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 346
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241522c7eaf4c7d41b189e2309b23851
+      internalID: 451649217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrierButton
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 98
+        height: 130
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ea184757daaa84fae3a0e89f45417d
+      internalID: -1886454927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryButton
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1358
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcc9c1058a00b24bb6b015cd761b45c
+      internalID: -424395425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeerRoleblockButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 947
+        width: 113
+        height: 113
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.49557522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c4011e75345a2498614916d77ad119
+      internalID: -447513735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeerSpillButton
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 776
+        width: 111
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4954955, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2374d2ec1210e9843803c73b334cb9a4
+      internalID: -50469745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1380
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaaf439402912f4781ca4d40523a556
+      internalID: -216151437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackmailButton
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 451
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f36eeffd31a8742b6354b8f7c691a7
+      internalID: -9418852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlessButton
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 143
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa230625134f3e468c0ed1c6ff7ca80
+      internalID: -1613485066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindButton
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1368
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802f229d69f0c0447b01a2c04ade498e
+      internalID: -1270911431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BribeButton
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 650
+        width: 110
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6cd734cb7614e45a0edd5292e76c37
+      internalID: 1042928180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BroadcastButton
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 129
+        width: 89
+        height: 101
+      alignment: 9
+      pivot: {x: 0.48314607, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ceb4c0308203546a807c8b366c50a6
+      internalID: 1079629793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamButton
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 659
+        width: 110
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbb50ca1d27e264eb8db204b0562de1
+      internalID: 1688671349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoSprintButton
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1140
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858869c5532539e40aa7856a803c79fc
+      internalID: 1360479677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoSprintFreezeButton
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1134
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f261242a0a996f47ab892410d9fb9f4
+      internalID: 190210861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamouflageButton
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1040
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fd0e495f898614daca4bc968f4c305
+      internalID: 706251782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampaignButton
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 289
+        width: 106
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040f2b15752297449aa8c24196d48c21
+      internalID: -1236899725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampButton
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1393
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b24bb4824c95a40b07b57695b18407
+      internalID: -848534195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CleanButton
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 780
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec345a4747be9a428f4491e151fe343
+      internalID: 1970882696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CleanseButton
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1081
+        width: 112
+        height: 114
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063700218583e9e4b8757ff7088cf4cd
+      internalID: -1139595593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectButton
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 886
+        width: 110
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1fa96f770943547a6cc8dc85a32081
+      internalID: 362991898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectEmptyButton
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 855
+        width: 110
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76947cc3b366c64883a3d1cc1946013
+      internalID: 838050457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConfessButton
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 19
+        width: 97
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5051546, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82d0c48b8b0254fafa3028c007f45d
+      internalID: -211998571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 334
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fe01279ac389d4bb64c1509b6911c6
+      internalID: -1438021525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CookButton
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1358
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def99960c48b36247821b37678611bb6
+      internalID: -2104520503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrewSwoopButton
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1249
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2296c5bd7dd0b345a3c09351d7d0019
+      internalID: 1934376787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrewUnswoopButton
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1195
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dde6236b6bbdc04da0d17420c073583
+      internalID: 87942263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 540
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8833d7a504c22034c9ad7a218671bc50
+      internalID: -375298708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatingButton
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1247
+        width: 114
+        height: 109
+      alignment: 9
+      pivot: {x: 0.48245615, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794f77a116eae9e40a1b2f6694cefdc2
+      internalID: -1504120141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisperseButton
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1050
+        width: 112
+        height: 104
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b884bdb11cf0a3f4694fb9d408247c79
+      internalID: 906920544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DouseButton
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 22
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71eba73d35977540b20410adeaff9a6
+      internalID: -210439794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragButton
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1476
+        width: 116
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc690eae1a5c7b4a92d312891b68e1b
+      internalID: -2024770377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropButton
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1465
+        width: 118
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c548576061fc04abced323e319cec5
+      internalID: 354250198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EngiVentButton
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 966
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8290d692bdb6fd842ab86f2cd39b829a
+      internalID: 1162097196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExamineButton
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 255
+        width: 105
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01cdf3c838f47c4f87c76e583974a4b
+      internalID: -1514503022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExeTormentButton
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 982
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a0778715e09bf4789c8478f71f9745
+      internalID: 1314490254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FixButton
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 37
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830403305c44be94799581671640d03d
+      internalID: -980260361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlashButton
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 794
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a22d7a8828fc64438bf711fed26af07
+      internalID: 1619507204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlushButton
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 232
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504f0df3d8c46614f8fba448785c8758
+      internalID: 1639826992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifyButton
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1484
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bfe5c1a1b01804aa679b871d93d91e
+      internalID: 1750768654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeplayModifierButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1292
+        width: 118
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5783bd9f5b71c347aea01e39b44353c
+      internalID: -712798590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeplayResetButton
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1498
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9bd4af964145e45ac20525c7187aea
+      internalID: 1784590981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeplayRoleButton
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1410
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188040e732c0cc14487cab54ffb469bd
+      internalID: -890994091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GazeButton
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 352
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1072f9ec7b81d804fa5eb37cf118f519
+      internalID: 1880553766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchKillButton
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 682
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198e09b805034a042ac19ff55234b037
+      internalID: 2038563882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchVentButton
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 912
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3971d41918ef9944e98d88f23e4b4058
+      internalID: -1642230269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardButton
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1197
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a381ba2b7eeaa6249b9ffd8e88fe8a2f
+      internalID: -351170688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 446
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c2f2137500b1b4497020232ca417f4
+      internalID: 1749656412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HerbConfuseButton
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 367
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b483a358eaca7048983475b18300994
+      internalID: -1050480779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HerbExposeButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea8159d738344a4d9698509193d7310
+      internalID: -1362116432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HerbProtectButton
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 25
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0911657d3dc877d4daca44feb9a1608b
+      internalID: 860724121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HexBombButton
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 446
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c80288c26c3b3f4dbe59bd90d60253a
+      internalID: -228478616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HexButton
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 432
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea15860d38356a40abce31b60018eb7
+      internalID: 1855755112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HunterKillButton
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 664
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c35788fb1931614d88951af47afeea6
+      internalID: -364318540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HypnotiseButton
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 311
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb63556cfa9fa47834cef5a8885008
+      internalID: -103976383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgniteButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 760
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf314fa43b5ea8242b4d2ac0ba94bba6
+      internalID: -979753626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfectButton
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1043
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2dca2159fcff64db9aec9021f976f1
+      internalID: 1593606486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InquireButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 104
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8354988482df548be7a63056714aa1
+      internalID: -416968178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InquisKillButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 648
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c187be0f610719848884ef6ebd42e30a
+      internalID: -758765399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspectButton
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1380
+        width: 119
+        height: 102
+      alignment: 9
+      pivot: {x: 0.49579832, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad83ee95cc001d844b1328f67ff6dccc
+      internalID: 1615702461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntuitButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868401930e69a294e8d529d1f17b1e9c
+      internalID: 416136273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JailButton
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 340
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c4e55be41fc6946963b9d869d7e6f5
+      internalID: 1983226477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JesterHauntButton
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 460
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246fd689c8956db4dab35bdc7a3ba2a1
+      internalID: -2070825232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JesterPokeButton
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1478
+        width: 119
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea30f84745265d42b9e365d051b207a
+      internalID: -366585799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JesterVentButton
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 889
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dddb4f68aa85f4bb969bf43497bbaf
+      internalID: 1781864254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JuggKillButton
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 774
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340825f5236b8fe419de694e84c4789e
+      internalID: -263723128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JuggVentButton
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1059
+        width: 112
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31506848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5e37a7a4c803e45812014a7f1ab0b9
+      internalID: -1179554252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillButton
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 743
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a650c1fc26a7f40b1037a668ea674c
+      internalID: 1653049246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightButton
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1349
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783a56dd80a8f2f468a6154cb34961f5
+      internalID: -230760506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirrorButton
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 865
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da27bf9c59ef964ca9af04e4f09765f
+      internalID: 1857423198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarkButton
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 136
+        width: 95
+        height: 109
+      alignment: 9
+      pivot: {x: 0.44210526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2c3ce8f638cac44b93dd49891bea25
+      internalID: -2008463470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediateButton
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 538
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b362613b7e8b6349b8c0ab9eea6b06f
+      internalID: 1384119632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedicButton
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1039
+        width: 112
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0507b3dbb9ec6b4da4b18e23e844c8d
+      internalID: -1631165493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaPetrifyButton
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 247
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072b080205cc7114c879abcc25eb239c
+      internalID: -886593362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaStoneGazeButton
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1486
+        width: 116
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4950495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463057a2cbdb181428ab41decb714808
+      internalID: 601943870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaVentButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 873
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a369737ba368d408a9826fd90240b6
+      internalID: 719916627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimicButton
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1147
+        width: 114
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8068888b646f5a74fa0f9ab688b2021d
+      internalID: 2016342701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineButton
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1304
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280b0a90efbcddf408c653fc0230064f
+      internalID: 1537661348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorphButton
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1093
+        width: 114
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cc4174a4cb38540bcdf2557da9ae9e
+      internalID: -1090237893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoAbilityButton
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 986
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a149894731939488f942d2142883ae
+      internalID: -1863664981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObserveButton
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1503
+        width: 120
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664e4b627b2b8534988be4235124d7c6
+      internalID: -581972151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficerLoadButton
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 555
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b0e4f98e03c42458becf3eafb6d504
+      internalID: 1640937486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficerShootButton
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 736
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5597a54f67b623d48875fa747ced17a8
+      internalID: -1149794672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverchargeButton
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1156
+        width: 113
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5132743, y: 0.49557522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf934c91f4bec45a48482e8695e39a
+      internalID: -374586691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverclockerOverButton
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 116
+        width: 91
+        height: 86
+      alignment: 9
+      pivot: {x: 0.521978, y: 0.5116279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36350bc518e3f3f4dacecf0c3e2ffec4
+      internalID: 2058372580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverclockerUnderButton
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 193
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ea0db397ab5ba4a98b21f4a4f80549
+      internalID: 705154199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OvertakeButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1171
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905e3476672d40c489e166beb3f74480
+      internalID: -1208950264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PestKillButton
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 686
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d3bc7b7a119fa45a108e82f4db74a7
+      internalID: -1216421866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PestVentButton
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1007
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5929b905a0772c44bb951640acaa9aa
+      internalID: 426992610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomSpookButton
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1271
+        width: 115
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0df1f71e41fa04aa3ba428536df89c
+      internalID: -354420502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceButton
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 143
+        width: 85
+        height: 100
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ccaf012c964b4497448a3c4c8eedf
+      internalID: 1951965856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonButton
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 7
+        width: 84
+        height: 107
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f222daa28a30754aa4ff4bfffc1d012
+      internalID: -1727657562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonedButton
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 7
+        width: 84
+        height: 107
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2310fd6c45bf9f47a14168eba269046
+      internalID: 283688704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectButton
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 573
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6236aab91db7b8e44854fbb5190b521f
+      internalID: 762201050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PursueButton
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 558
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3636f04226398f44c8812ddbaada8e2b
+      internalID: 329788387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RampageButton
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1268
+        width: 117
+        height: 110
+      alignment: 9
+      pivot: {x: 0.50427353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b99704826236224ab9fceff8f928647
+      internalID: 1676502450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReapButton
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 557
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ffd8592059854d81b5b527b8be916
+      internalID: 801172865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaperVentButton
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 976
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d53b2b61c08e74a8a368aeb7b52dd3
+      internalID: 1793291130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecallButton
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 25
+        width: 95
+        height: 109
+      alignment: 9
+      pivot: {x: 0.44210526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f717e293ea62314291167dc76cb9a42
+      internalID: 1662243967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberButton
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 465
+        width: 109
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5735e1f7ced81d041b0223089063a23c
+      internalID: 1765130273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1481
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb5dd1d4921b7e4a87e530f486016c0
+      internalID: 1098736320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RewindButton
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 848
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68364beb310278849a4ab5b983d3c36d
+      internalID: 1564374504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RewindingButton
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 245
+        width: 105
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a041cb97fd9c1dc45ba8991e301c9630
+      internalID: 660480031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SampleButton
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 366
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af28e08f54b1eec408c19bb35f062164
+      internalID: -1713728390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeerButton
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 247
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad2173886a66ea489bc18c6c10bc831
+      internalID: 1515420479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ServeBurgerButton
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 567
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9877ae046674d6e40bd916e7881e9d74
+      internalID: -909591277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ServeCakeButton
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 488
+        width: 108
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5421687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de4665ff1741e4c9bc59a8d7734c75
+      internalID: 1052280243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ServeEmptyButton
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 535
+        width: 108
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c7ce938f404224a8c2ab2bdfce56a2
+      internalID: 1829544202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ServeSalmonButton
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 582
+        width: 108
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d937bfb8782ca4bbcf9933b1436447
+      internalID: -817093087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ServeTurkeyButton
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 479
+        width: 108
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.59210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded26e2c239d0e4c9cbb7f120f0108f
+      internalID: -952623101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheriffShootButton
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 668
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cc22c2b30bc5d4d970b1bfeb57cab4
+      internalID: -2055257787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiftButton
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1312
+        width: 115
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e60f1d772d4c45b7cc51680e62540
+      internalID: 1865254213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StalkButton
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 372
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae84b74b421e724b93e915e1800083b
+      internalID: 486398128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwoopButton
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1159
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f67070eb771ae4d9d59dfa404a3983
+      internalID: 88658965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrackButton
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 798
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09621c6184828fa4f99e7c3b197abb54
+      internalID: 795853418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorSelect
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1241
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7737a9247f14047b44ed66f1d56354
+      internalID: -365144135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportButton
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 668
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7868f94798a3eef4c9782dadbdf83d1e
+      internalID: 499224421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapButton
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 359
+        width: 102
+        height: 85
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5063fbfc83239740ac47391b8f70876
+      internalID: 172251249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnleashButton
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 633
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ebbc5a83a8aa4bb4d457c5c3f1086
+      internalID: 796947526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnswoopButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1062
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccfefce22351c64d86d6db38effdae2
+      internalID: 639809440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampVentButton
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 965
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a4e3163d276f8448c4e81cd31d8f04
+      internalID: -905872212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentButton
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 911
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b7b2d2e4bae6344a41e1c578666231
+      internalID: 1833667410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VestButton
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 249
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac3bb492a931414fb57cb6986aed933
+      internalID: -1051743718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VitalsButton
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 963
+        width: 113
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e601d7af2328343bd49ae803fdc31e
+      internalID: -860796865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchButton
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 145
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684ebd3880180a742853f73c709265da
+      internalID: 890615835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinePoisonButton
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 748
+        width: 96
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5104167, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fb66bfc8c9a674396bb9796e663465
+      internalID: 512839547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WineRoleblockButton
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 22
+        width: 70
+        height: 112
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.5089286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dccd0a9125d94c43917bee321fc32c2
+      internalID: 1702821400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WineSickenButton
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 90
+        height: 112
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b56a0e9fccd8a14da1be13899c90d6d
+      internalID: -813415204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfKillButton
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 570
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c447464bef6314193f91932c10de33
+      internalID: -82675699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfVentButton
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 892
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bb2411519c1534b96e7b1610e56a95
+      internalID: 1751763441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e6a071c78d170b43b3f156fb6e15fc3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AdminButton: 200806231
+      AlertButton: 1185233747
+      AmbushButton: -1149731704
+      ArsoVentButton: -236424378
+      BarricadeButton: 451649217
+      BarrierButton: -1886454927
+      BarryButton: -424395425
+      BeerRoleblockButton: -447513735
+      BeerSpillButton: -50469745
+      BiteButton: -216151437
+      BlackmailButton: -9418852
+      BlessButton: -1613485066
+      BlindButton: -1270911431
+      BribeButton: 1042928180
+      BroadcastButton: 1079629793
+      CamButton: 1688671349
+      CamoSprintButton: 1360479677
+      CamoSprintFreezeButton: 190210861
+      CamouflageButton: 706251782
+      CampButton: -848534195
+      CampaignButton: -1236899725
+      CleanButton: 1970882696
+      CleanseButton: -1139595593
+      CollectButton: 362991898
+      CollectEmptyButton: 838050457
+      ConfessButton: -211998571
+      ControlButton: -1438021525
+      CookButton: -2104520503
+      CrewSwoopButton: 1934376787
+      CrewUnswoopButton: 87942263
+      DeployButton: -375298708
+      DetonatingButton: -1504120141
+      DisperseButton: 906920544
+      DouseButton: -210439794
+      DragButton: -2024770377
+      DropButton: 354250198
+      EngiVentButton: 1162097196
+      ExamineButton: -1514503022
+      ExeTormentButton: 1314490254
+      FixButton: -980260361
+      FlashButton: 1619507204
+      FlushButton: 1639826992
+      FortifyButton: 1750768654
+      FreeplayModifierButton: -712798590
+      FreeplayResetButton: 1784590981
+      FreeplayRoleButton: -890994091
+      GazeButton: 1880553766
+      GlitchKillButton: 2038563882
+      GlitchVentButton: -1642230269
+      GuardButton: -351170688
+      HackButton: 1749656412
+      HerbConfuseButton: -1050480779
+      HerbExposeButton: -1362116432
+      HerbProtectButton: 860724121
+      HexBombButton: -228478616
+      HexButton: 1855755112
+      HunterKillButton: -364318540
+      HypnotiseButton: -103976383
+      IgniteButton: -979753626
+      InfectButton: 1593606486
+      InquireButton: -416968178
+      InquisKillButton: -758765399
+      InspectButton: 1615702461
+      IntuitButton: 416136273
+      JailButton: 1983226477
+      JesterHauntButton: -2070825232
+      JesterPokeButton: -366585799
+      JesterVentButton: 1781864254
+      JuggKillButton: -263723128
+      JuggVentButton: -1179554252
+      KillButton: 1653049246
+      KnightButton: -230760506
+      MagicMirrorButton: 1857423198
+      MarkButton: -2008463470
+      MediateButton: 1384119632
+      MedicButton: -1631165493
+      MedusaPetrifyButton: -886593362
+      MedusaStoneGazeButton: 601943870
+      MedusaVentButton: 719916627
+      MimicButton: 2016342701
+      MineButton: 1537661348
+      MorphButton: -1090237893
+      NoAbilityButton: -1863664981
+      ObserveButton: -581972151
+      OfficerLoadButton: 1640937486
+      OfficerShootButton: -1149794672
+      OverchargeButton: -374586691
+      OverclockerOverButton: 2058372580
+      OverclockerUnderButton: 705154199
+      OvertakeButton: -1208950264
+      PestKillButton: -1216421866
+      PestVentButton: 426992610
+      PhantomSpookButton: -354420502
+      PlaceButton: 1951965856
+      PoisonButton: -1727657562
+      PoisonedButton: 283688704
+      ProtectButton: 762201050
+      PursueButton: 329788387
+      RampageButton: 1676502450
+      ReapButton: 801172865
+      ReaperVentButton: 1793291130
+      RecallButton: 1662243967
+      RememberButton: 1765130273
+      ReviveButton: 1098736320
+      RewindButton: 1564374504
+      RewindingButton: 660480031
+      SampleButton: -1713728390
+      SeerButton: 1515420479
+      ServeBurgerButton: -909591277
+      ServeCakeButton: 1052280243
+      ServeEmptyButton: 1829544202
+      ServeSalmonButton: -817093087
+      ServeTurkeyButton: -952623101
+      SheriffShootButton: -2055257787
+      ShiftButton: 1865254213
+      StalkButton: 486398128
+      SwoopButton: 88658965
+      TrackButton: 795853418
+      TraitorSelect: -365144135
+      TransportButton: 499224421
+      TrapButton: 172251249
+      UnleashButton: 796947526
+      UnswoopButton: 639809440
+      VampVentButton: -905872212
+      VentButton: 1833667410
+      VestButton: -1051743718
+      VitalsButton: -860796865
+      WatchButton: 890615835
+      WinePoisonButton: 512839547
+      WineRoleblockButton: 1702821400
+      WineSickenButton: -813415204
+      WolfKillButton: -82675699
+      WolfVentButton: 1751763441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
