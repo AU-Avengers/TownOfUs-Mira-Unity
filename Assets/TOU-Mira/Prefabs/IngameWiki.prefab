@@ -434,7 +434,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: -1.5}
-  m_SizeDelta: {x: 2.4, y: 5}
+  m_SizeDelta: {x: 2.5, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1105350282827709863
 GameObject:
@@ -10883,7 +10883,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 2.4, y: 5}
+  m_SizeDelta: {x: 2.45, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!212 &8351133793971095358
 SpriteRenderer:
@@ -10931,7 +10931,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 1
-  m_Size: {x: 2, y: 5}
+  m_Size: {x: 2.45, y: 5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -11200,7 +11200,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0.0000021905, y: -2.8}
-  m_SizeDelta: {x: 1.9, y: 4.0045}
+  m_SizeDelta: {x: 2, y: 4.0045}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &8151325044418852554
 MeshRenderer:
