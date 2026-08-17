@@ -28,6 +28,7 @@ namespace TownOfUs.Modules.Wiki
         public TextMeshPro DetailDescription;
         public PassiveButton ToggleAbilitiesBtn;
         public Transform AbilityTemplate;
+        public Transform AbilityTemplateLong;
         public Scroller AbilityScroller;
         public PassiveButton DetailScreenBackBtn;
         public SpriteRenderer DetailScreenIcon;
