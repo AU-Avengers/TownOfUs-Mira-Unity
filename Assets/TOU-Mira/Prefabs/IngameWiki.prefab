@@ -10883,7 +10883,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 2.45, y: 5}
+  m_SizeDelta: {x: 2.5, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!212 &8351133793971095358
 SpriteRenderer:
@@ -11200,7 +11200,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0.0000021905, y: -2.8}
-  m_SizeDelta: {x: 2, y: 4.0045}
+  m_SizeDelta: {x: 2.45, y: 4.0045}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &8151325044418852554
 MeshRenderer:
@@ -11264,7 +11264,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Charge up your kill button to kill multiple people in bursts.
+  m_text: "Scavenger \u21E8 Investigator"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
