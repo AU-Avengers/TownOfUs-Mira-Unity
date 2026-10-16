@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 8d6c51b0bb9287042afd3cc5f57173ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClericBarrier-0
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 224
+        width: 254
+        height: 260
+      alignment: 9
+      pivot: {x: 0.511811, y: 0.4923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca289024e8585459cfe0469bd16525
+      internalID: -1690082139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-1
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 224
+        width: 254
+        height: 260
+      alignment: 9
+      pivot: {x: 0.511811, y: 0.4923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d3fced2df4a7940b98e35c4a9053cc
+      internalID: -461823286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-10
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 751
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaf2047beb993246b4175a7961a27dd
+      internalID: -1443513694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-11
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 751
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54bbcd31ccd1e8449e20154173e1a55
+      internalID: -1491553528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-12
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 751
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea040a24ca9eab48b0b5f4a36d24673
+      internalID: 824918077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-13
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 751
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21b4dfd02c64eb49ab56973e8971bcc
+      internalID: -748790036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-14
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 62
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c112a8be6cb44195c9c8fdf05691f
+      internalID: -2126849018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-15
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 62
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de30ed89dcf73ff47a18e4d22e3d7c7d
+      internalID: -1658410539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-16
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 336
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608c2545d5b76f34381d123279cab48b
+      internalID: -1084252941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-17
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 336
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe6e326b62e274b9097b7b8e29ef15
+      internalID: 572293354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 205
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff46849d27301f4a93df6fcb9599593
+      internalID: -888803887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 205
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f7790d1b2b35f41a1afb2adb83aae2
+      internalID: -1076748604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-2
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 486
+        width: 271
+        height: 263
+      alignment: 9
+      pivot: {x: 0.50553507, y: 0.48288974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf7711d65de84f4cbdea8787b0b23f8
+      internalID: -916620610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 479
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd4588591cde464da3c1f8ca4510405
+      internalID: 1988711445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-21
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 479
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad313dae9145b7c4e82391d73f44c70f
+      internalID: -246258434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-22
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 751
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ac3f647b28d734481071ed4f8d2cad
+      internalID: -381489938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-23
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 751
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9532a2b045e9b4eae2f70b33db419a
+      internalID: 351414997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-24
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 752
+        width: 270
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5074074, y: 0.501845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adf8c9d869269440b356b79e601b85d
+      internalID: -1613282187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 752
+        width: 270
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5074074, y: 0.501845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69455c2e1dedef0488adc4c6a835babb
+      internalID: -1637563259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 609
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc3ff611b65eb84cae02a37331f004e
+      internalID: 2012115102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 609
+        width: 269
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5055762, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bf956fc25d850428d41be7cc30052c
+      internalID: 685993058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 475
+        width: 272
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4981685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00118461bbc45b47bdcfb6516af25ba
+      internalID: -304307908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 475
+        width: 272
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4981685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39024e3fcd30544088aacbd76f0e72e
+      internalID: 607510561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-3
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 486
+        width: 271
+        height: 263
+      alignment: 9
+      pivot: {x: 0.50553507, y: 0.48288974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463f1abbb5becd6459ef16e7dae803d9
+      internalID: -1116053069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-30
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 336
+        width: 270
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5074074, y: 0.501845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb96c3744267b44bd38985cfc0f3d5
+      internalID: -874161170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-31
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 336
+        width: 270
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5074074, y: 0.501845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b901f48fefd4b845a54f9d655b73e71
+      internalID: 1797230187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-32
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 336
+        width: 270
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5074074, y: 0.501845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e317f83c0a7a824f99f2b959a72bf24
+      internalID: 1242026436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd08e4aaa72e5c45888e083b2f90a62
+      internalID: -1343841736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb66cc44bf89904cb4ca648fcb4616f
+      internalID: -1860004840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 25
+        width: 270
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5074074, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101a7a7f98a8fc640bfa7cab6c7c75da
+      internalID: 967113330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e93b55237f808a41a9022e1a93986ff
+      internalID: -120562411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7b5634a1d88c2418a9585cc6faa255
+      internalID: -1162861154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf53ea4abec3add46a04ff9004b2e216
+      internalID: 797127354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c54bfb99908a4e8487382eaa14f5a
+      internalID: 851533339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-4
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 760
+        width: 272
+        height: 263
+      alignment: 9
+      pivot: {x: 0.49632353, y: 0.50570345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bf7249a499ee447b69ca7735590d59
+      internalID: -1166276289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc0243c1c5fac14eac6dc6afec96cca
+      internalID: 328810884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e5470d886d8bc43b15721ee37d22d2
+      internalID: 611928313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008a53fa406c5042949522fbd826f45
+      internalID: 48538025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67bfffe01c0bdd4db7b7a2c684e5c56
+      internalID: 1259731952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6b491ee9d4d3b4db4a80c3b494b05b
+      internalID: -1834667868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd28a2aa28baba40ac8b86aef8ec181
+      internalID: 376997521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2e5bb501e5709478a4de7fefbe029c
+      internalID: 1085971748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 137, y: -136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad91409eaab16d4584f4d0fb76d210b
+      internalID: -79315220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-5
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 760
+        width: 272
+        height: 263
+      alignment: 9
+      pivot: {x: 0.49632353, y: 0.50570345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a98ee55aea6796439241afe6b81b85d
+      internalID: -125656796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 272
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4981685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fe2a12478365d479ec181d68a93628
+      internalID: 1014361846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 272
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4981685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46971546e5c1b44f990556cd0100f17
+      internalID: -2137198833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 750
+        width: 273
+        height: 273
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.50183153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57b51fd355929d489d7dc2fd9f7654e
+      internalID: -175029969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericBarrier-9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 750
+        width: 273
+        height: 273
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.50183153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f32c42d62f5c141b05315973cb96b4
+      internalID: -676602197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 53f779b3c5f0f03458f50a124c54db12
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ClericBarrier-0: -1690082139
+      ClericBarrier-1: -461823286
+      ClericBarrier-10: -1443513694
+      ClericBarrier-11: -1491553528
+      ClericBarrier-12: 824918077
+      ClericBarrier-13: -748790036
+      ClericBarrier-14: -2126849018
+      ClericBarrier-15: -1658410539
+      ClericBarrier-16: -1084252941
+      ClericBarrier-17: 572293354
+      ClericBarrier-18: -888803887
+      ClericBarrier-19: -1076748604
+      ClericBarrier-2: -916620610
+      ClericBarrier-20: 1988711445
+      ClericBarrier-21: -246258434
+      ClericBarrier-22: -381489938
+      ClericBarrier-23: 351414997
+      ClericBarrier-24: -1613282187
+      ClericBarrier-25: -1637563259
+      ClericBarrier-26: 2012115102
+      ClericBarrier-27: 685993058
+      ClericBarrier-28: -304307908
+      ClericBarrier-29: 607510561
+      ClericBarrier-3: -1116053069
+      ClericBarrier-30: -874161170
+      ClericBarrier-31: 1797230187
+      ClericBarrier-32: 1242026436
+      ClericBarrier-33: -1343841736
+      ClericBarrier-34: -1860004840
+      ClericBarrier-35: 967113330
+      ClericBarrier-36: -120562411
+      ClericBarrier-37: -1162861154
+      ClericBarrier-38: 797127354
+      ClericBarrier-39: 851533339
+      ClericBarrier-4: -1166276289
+      ClericBarrier-40: 328810884
+      ClericBarrier-41: 611928313
+      ClericBarrier-42: 48538025
+      ClericBarrier-43: 1259731952
+      ClericBarrier-44: -1834667868
+      ClericBarrier-45: 376997521
+      ClericBarrier-46: 1085971748
+      ClericBarrier-47: -79315220
+      ClericBarrier-5: -125656796
+      ClericBarrier-6: 1014361846
+      ClericBarrier-7: -2137198833
+      ClericBarrier-8: -175029969
+      ClericBarrier-9: -676602197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

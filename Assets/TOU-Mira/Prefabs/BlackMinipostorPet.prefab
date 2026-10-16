@@ -80,12 +80,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 691838372, guid: 3e4fdbd62b6481c4f8f2bf68198bc815, type: 3}
+  m_Sprite: {fileID: -157416566, guid: 7813733cced38b84eb2c334ccd448de0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.2121859, y: 1.28}
+  m_Size: {x: 1.26, y: 1.89}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22598f5430294c853dac9eedd8434e84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_defaultAnim: {fileID: 7400000, guid: 74fb83266eb9c434bb5adc3e5bb1a19c, type: 2}
+  m_defaultAnim: {fileID: 7400000, guid: 16acd240642065643af3e84440434cc3, type: 2}
 --- !u!114 &6033108196324818264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143,10 +143,10 @@ MonoBehaviour:
   collider: {fileID: 5085454748655836065}
   yOffset: 0
   pettingHandPosition: {fileID: 1769474709859857570}
-  idleClip: {fileID: 7400000, guid: 74fb83266eb9c434bb5adc3e5bb1a19c, type: 2}
-  sadClip: {fileID: 7400000, guid: 66627d3e22c8db642a1324e244670f79, type: 2}
+  idleClip: {fileID: 7400000, guid: 16acd240642065643af3e84440434cc3, type: 2}
+  sadClip: {fileID: 7400000, guid: dc4c8c919318f5b4e85539f4dcac1cc5, type: 2}
   scaredClip: {fileID: 7400000, guid: d79921f9a9944734cb9d8242c0a6b609, type: 2}
-  walkClip: {fileID: 7400000, guid: ce4f77ba421790c4ea9a1b8ede1face6, type: 2}
+  walkClip: {fileID: 7400000, guid: effd4ed577abfa5488f6eac29d5f780e, type: 2}
   petClip: {fileID: 7400000, guid: 7a52e9e49e1cb7d46861719803b9df5a, type: 2}
   renderers:
   - {fileID: 1563164423948442619}

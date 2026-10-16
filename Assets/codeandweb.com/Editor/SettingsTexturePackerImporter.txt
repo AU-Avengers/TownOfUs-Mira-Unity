@@ -2,6 +2,7 @@ version: 2
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 - Assets/TOU-Mira/Sprites/AbilitySprites.tpsheet
+- Assets/TOU-Mira/Sprites/CustomPets/BlackMinipostor/BlackMinipostor.tpsheet
 - Assets/TOU-Mira/Sprites/MeetingAbilitySprites.tpsheet
 - Assets/TOU-Mira/Sprites/RoleBannerSprites.tpsheet
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsBodyBack.tpsheet
@@ -11,10 +12,12 @@ tpsheetFileNames:
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsGavelFront.tpsheet
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsGavelHammer.tpsheet
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsPointHand.tpsheet
+- Assets/TOU-Mira/Sprites/Shields/ClericBarrier.tpsheet
 - Assets/TOU-Mira/Sprites/UiSprites.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 - Assets/TOU-Mira/Sprites/AbilitySprites.png
+- Assets/TOU-Mira/Sprites/CustomPets/BlackMinipostor/BlackMinipostor.png
 - Assets/TOU-Mira/Sprites/MeetingAbilitySprites.png
 - Assets/TOU-Mira/Sprites/RoleBannerSprites.png
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsBodyBack.png
@@ -24,9 +27,12 @@ textureFileNames:
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsGavelFront.png
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsGavelHammer.png
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsPointHand.png
+- Assets/TOU-Mira/Sprites/Shields/ClericBarrier.png
 - Assets/TOU-Mira/Sprites/UiSprites.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
 - 
 - 
 - 
