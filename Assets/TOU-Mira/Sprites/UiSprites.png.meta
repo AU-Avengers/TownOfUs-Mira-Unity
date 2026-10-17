@@ -113,8 +113,8 @@ TextureImporter:
       name: ChatImpBubble
       rect:
         serializedVersion: 2
-        x: 696
-        y: 24
+        x: 925
+        y: 185
         width: 74
         height: 70
       alignment: 9
@@ -134,8 +134,8 @@ TextureImporter:
       name: ChatJailBubble
       rect:
         serializedVersion: 2
-        x: 816
-        y: 124
+        x: 695
+        y: 97
         width: 70
         height: 64
       alignment: 9
@@ -155,8 +155,8 @@ TextureImporter:
       name: ChatLoveBubble
       rect:
         serializedVersion: 2
-        x: 770
-        y: 31
+        x: 619
+        y: 98
         width: 74
         height: 63
       alignment: 0
@@ -176,8 +176,8 @@ TextureImporter:
       name: ChatNormalBubble
       rect:
         serializedVersion: 2
-        x: 844
-        y: 8
+        x: 767
+        y: 100
         width: 64
         height: 61
       alignment: 0
@@ -197,8 +197,8 @@ TextureImporter:
       name: ChatVampBubble
       rect:
         serializedVersion: 2
-        x: 844
-        y: 69
+        x: 1
+        y: 8
         width: 74
         height: 55
       alignment: 0
@@ -218,8 +218,8 @@ TextureImporter:
       name: LoveChatHover
       rect:
         serializedVersion: 2
-        x: 714
-        y: 94
+        x: 417
+        y: 161
         width: 102
         height: 94
       alignment: 9
@@ -239,8 +239,8 @@ TextureImporter:
       name: LoveChatIdle
       rect:
         serializedVersion: 2
-        x: 612
-        y: 94
+        x: 313
+        y: 65
         width: 102
         height: 94
       alignment: 9
@@ -260,8 +260,8 @@ TextureImporter:
       name: LoveChatOpen
       rect:
         serializedVersion: 2
-        x: 510
-        y: 94
+        x: 209
+        y: 65
         width: 102
         height: 94
       alignment: 9
@@ -281,8 +281,8 @@ TextureImporter:
       name: Minus
       rect:
         serializedVersion: 2
-        x: 597
-        y: 2
+        x: 518
+        y: 67
         width: 99
         height: 92
       alignment: 9
@@ -302,8 +302,8 @@ TextureImporter:
       name: MinusActive
       rect:
         serializedVersion: 2
-        x: 498
-        y: 2
+        x: 824
+        y: 163
         width: 99
         height: 92
       alignment: 9
@@ -323,8 +323,8 @@ TextureImporter:
       name: NormalChatHover
       rect:
         serializedVersion: 2
-        x: 408
-        y: 94
+        x: 105
+        y: 65
         width: 102
         height: 94
       alignment: 9
@@ -344,8 +344,8 @@ TextureImporter:
       name: NormalChatIdle
       rect:
         serializedVersion: 2
-        x: 306
-        y: 94
+        x: 313
+        y: 161
         width: 102
         height: 94
       alignment: 9
@@ -365,8 +365,8 @@ TextureImporter:
       name: NormalChatOpen
       rect:
         serializedVersion: 2
-        x: 204
-        y: 94
+        x: 209
+        y: 161
         width: 102
         height: 94
       alignment: 9
@@ -386,8 +386,8 @@ TextureImporter:
       name: Plus
       rect:
         serializedVersion: 2
-        x: 399
-        y: 2
+        x: 723
+        y: 163
         width: 99
         height: 92
       alignment: 9
@@ -407,8 +407,8 @@ TextureImporter:
       name: PlusActive
       rect:
         serializedVersion: 2
-        x: 300
-        y: 2
+        x: 622
+        y: 163
         width: 99
         height: 92
       alignment: 9
@@ -428,8 +428,8 @@ TextureImporter:
       name: TeamChatHover
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 1
+        y: 65
         width: 102
         height: 94
       alignment: 9
@@ -449,8 +449,8 @@ TextureImporter:
       name: TeamChatIdle
       rect:
         serializedVersion: 2
-        x: 102
-        y: 94
+        x: 105
+        y: 161
         width: 102
         height: 94
       alignment: 9
@@ -470,8 +470,8 @@ TextureImporter:
       name: TeamChatOpen
       rect:
         serializedVersion: 2
-        x: 0
-        y: 94
+        x: 1
+        y: 161
         width: 102
         height: 94
       alignment: 9
@@ -491,8 +491,8 @@ TextureImporter:
       name: WikiButton
       rect:
         serializedVersion: 2
-        x: 201
-        y: 2
+        x: 417
+        y: 67
         width: 99
         height: 92
       alignment: 9
@@ -512,8 +512,8 @@ TextureImporter:
       name: WikiButtonActive
       rect:
         serializedVersion: 2
-        x: 102
-        y: 2
+        x: 521
+        y: 163
         width: 99
         height: 92
       alignment: 9

@@ -45,7 +45,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 150
@@ -114,7 +114,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 740
+        y: 418
         width: 99
         height: 94
       alignment: 0
@@ -131,36 +131,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ExecuteClean
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 834
-        width: 99
-        height: 94
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b10a0f405df087843bbcf3454ae5be5b
-      internalID: -1266157735
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Guess
       rect:
         serializedVersion: 2
-        x: 0
-        y: 367
-        width: 99
+        x: 95
+        y: 324
+        width: 94
         height: 92
       alignment: 9
-      pivot: {x: 0.5, y: 0.5217391}
+      pivot: {x: 0.47340426, y: 0.5217391}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -173,53 +152,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hysteria
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 928
-        width: 98
-        height: 96
-      alignment: 9
-      pivot: {x: 0.49489796, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 60c743a51f2e1144294f7f8c95abe99d
-      internalID: -1146917132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HysteriaClean
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1024
-        width: 99
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb25e6876caf42a4fbe2c17bbe225760
-      internalID: -970004040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ImitateDeselect
       rect:
         serializedVersion: 2
-        x: 0
-        y: 459
+        x: 99
+        y: 416
         width: 95
         height: 96
       alignment: 0
@@ -240,7 +177,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 555
+        y: 322
         width: 95
         height: 96
       alignment: 0
@@ -261,11 +198,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 173
-        width: 85
-        height: 95
+        y: 143
+        width: 82
+        height: 83
       alignment: 9
-      pivot: {x: 0.4882353, y: 0.50526315}
+      pivot: {x: 0.4695122, y: 0.4698795}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -278,78 +215,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RetrainClean
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 84
-        width: 87
-        height: 89
-      alignment: 9
-      pivot: {x: 0.5, y: 0.505618}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2471d7155d9fc6428d131de2d4dfb4e
-      internalID: -812296013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Reveal
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1120
-        width: 99
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2d861900d451514d8287c600b812db5
-      internalID: -1537267827
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RevealClean
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1216
-        width: 99
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cad61b238aa954c4f9557ce7c59196b5
-      internalID: -2058869757
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Shoot
       rect:
         serializedVersion: 2
-        x: 0
-        y: 645
-        width: 96
-        height: 95
+        x: 95
+        y: 236
+        width: 94
+        height: 88
       alignment: 9
-      pivot: {x: 0.515625, y: 0.49473685}
+      pivot: {x: 0.5265958, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -366,8 +240,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1312
-        width: 99
+        y: 226
+        width: 93
         height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -386,9 +260,9 @@ TextureImporter:
       name: SwapDisabled
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1408
-        width: 99
+        x: 93
+        y: 140
+        width: 93
         height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -408,11 +282,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 268
-        width: 98
-        height: 90
+        y: 63
+        width: 82
+        height: 80
       alignment: 9
-      pivot: {x: 0.49489796, y: 0.46666667}
+      pivot: {x: 0.49390244, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,27 +294,6 @@ TextureImporter:
       bones: []
       spriteID: 67e164391cf511c4baf00719932d7217
       internalID: 1558229505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TribunalClean
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1
-        width: 86
-        height: 83
-      alignment: 9
-      pivot: {x: 0.51744187, y: 0.42168674}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c8f922ac5020574ea6fe399404b5c10
-      internalID: -1421157794
       vertices: []
       indices: 
       edges: []
@@ -457,21 +310,14 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Execute: -564578520
-      ExecuteClean: -1266157735
       Guess: -327434957
-      Hysteria: -1146917132
-      HysteriaClean: -970004040
       ImitateDeselect: 1000251544
       ImitateSelect: 457976111
       Retrain: 569516289
-      RetrainClean: -812296013
-      Reveal: -1537267827
-      RevealClean: -2058869757
       Shoot: 2100734733
       SwapActive: -339421789
       SwapDisabled: -781885262
       Tribunal: 1558229505
-      TribunalClean: -1421157794
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

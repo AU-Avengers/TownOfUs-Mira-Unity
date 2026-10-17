@@ -113,8 +113,8 @@ TextureImporter:
       name: AdminButton
       rect:
         serializedVersion: 2
-        x: 654
-        y: 204
+        x: 744
+        y: 703
         width: 98
         height: 105
       alignment: 0
@@ -134,8 +134,8 @@ TextureImporter:
       name: AlertButton
       rect:
         serializedVersion: 2
-        x: 216
-        y: 143
+        x: 646
+        y: 860
         width: 104
         height: 110
       alignment: 0
@@ -155,8 +155,8 @@ TextureImporter:
       name: AmbushButton
       rect:
         serializedVersion: 2
-        x: 668
-        y: 429
+        x: 322
+        y: 847
         width: 106
         height: 104
       alignment: 0
@@ -176,8 +176,8 @@ TextureImporter:
       name: ArsoVentButton
       rect:
         serializedVersion: 2
-        x: 467
-        y: 985
+        x: 811
+        y: 1497
         width: 112
         height: 72
       alignment: 9
@@ -197,8 +197,8 @@ TextureImporter:
       name: BarricadeButton
       rect:
         serializedVersion: 2
-        x: 112
-        y: 346
+        x: 0
+        y: 726
         width: 106
         height: 112
       alignment: 0
@@ -218,8 +218,8 @@ TextureImporter:
       name: BarrierButton
       rect:
         serializedVersion: 2
-        x: 192
-        y: 11
+        x: 207
+        y: 529
         width: 98
         height: 130
       alignment: 9
@@ -239,8 +239,8 @@ TextureImporter:
       name: BarryButton
       rect:
         serializedVersion: 2
-        x: 366
-        y: 1358
+        x: 359
+        y: 1821
         width: 118
         height: 118
       alignment: 0
@@ -260,8 +260,8 @@ TextureImporter:
       name: BeerRoleblockButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 947
+        x: 350
+        y: 1601
         width: 113
         height: 113
       alignment: 9
@@ -281,8 +281,8 @@ TextureImporter:
       name: BeerSpillButton
       rect:
         serializedVersion: 2
-        x: 115
-        y: 776
+        x: 569
+        y: 1346
         width: 111
         height: 111
       alignment: 9
@@ -302,8 +302,8 @@ TextureImporter:
       name: BiteButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1380
+        x: 0
+        y: 1843
         width: 119
         height: 99
       alignment: 0
@@ -323,8 +323,8 @@ TextureImporter:
       name: BlackmailButton
       rect:
         serializedVersion: 2
-        x: 559
-        y: 451
+        x: 108
+        y: 885
         width: 107
         height: 114
       alignment: 0
@@ -344,8 +344,8 @@ TextureImporter:
       name: BlessButton
       rect:
         serializedVersion: 2
-        x: 107
-        y: 143
+        x: 541
+        y: 808
         width: 104
         height: 102
       alignment: 0
@@ -365,8 +365,8 @@ TextureImporter:
       name: BlindButton
       rect:
         serializedVersion: 2
-        x: 726
-        y: 1368
+        x: 713
+        y: 1831
         width: 115
         height: 116
       alignment: 0
@@ -386,8 +386,8 @@ TextureImporter:
       name: BribeButton
       rect:
         serializedVersion: 2
-        x: 683
-        y: 650
+        x: 0
+        y: 1121
         width: 110
         height: 91
       alignment: 0
@@ -407,8 +407,8 @@ TextureImporter:
       name: BroadcastButton
       rect:
         serializedVersion: 2
-        x: 914
-        y: 129
+        x: 400
+        y: 476
         width: 89
         height: 101
       alignment: 9
@@ -428,8 +428,8 @@ TextureImporter:
       name: CamButton
       rect:
         serializedVersion: 2
-        x: 567
-        y: 659
+        x: 220
+        y: 1214
         width: 110
         height: 75
       alignment: 0
@@ -449,8 +449,8 @@ TextureImporter:
       name: CamoSprintButton
       rect:
         serializedVersion: 2
-        x: 597
-        y: 1140
+        x: 0
+        y: 1426
         width: 113
         height: 105
       alignment: 0
@@ -470,8 +470,8 @@ TextureImporter:
       name: CamoSprintFreezeButton
       rect:
         serializedVersion: 2
-        x: 473
-        y: 1134
+        x: 463
+        y: 1607
         width: 113
         height: 105
       alignment: 0
@@ -491,8 +491,8 @@ TextureImporter:
       name: CamouflageButton
       rect:
         serializedVersion: 2
-        x: 352
-        y: 1040
+        x: 463
+        y: 1502
         width: 113
         height: 105
       alignment: 0
@@ -512,8 +512,8 @@ TextureImporter:
       name: CampaignButton
       rect:
         serializedVersion: 2
-        x: 445
-        y: 289
+        x: 106
+        y: 707
         width: 106
         height: 81
       alignment: 0
@@ -533,8 +533,8 @@ TextureImporter:
       name: CampButton
       rect:
         serializedVersion: 2
-        x: 245
-        y: 1393
+        x: 240
+        y: 1856
         width: 119
         height: 108
       alignment: 0
@@ -554,8 +554,8 @@ TextureImporter:
       name: CleanButton
       rect:
         serializedVersion: 2
-        x: 343
-        y: 780
+        x: 900
+        y: 1172
         width: 110
         height: 110
       alignment: 0
@@ -575,8 +575,8 @@ TextureImporter:
       name: CleanseButton
       rect:
         serializedVersion: 2
-        x: 834
-        y: 1081
+        x: 113
+        y: 1399
         width: 112
         height: 114
       alignment: 9
@@ -596,8 +596,8 @@ TextureImporter:
       name: CollectButton
       rect:
         serializedVersion: 2
-        x: 816
-        y: 886
+        x: 680
+        y: 1300
         width: 110
         height: 119
       alignment: 0
@@ -617,8 +617,8 @@ TextureImporter:
       name: CollectEmptyButton
       rect:
         serializedVersion: 2
-        x: 695
-        y: 855
+        x: 564
+        y: 1227
         width: 110
         height: 119
       alignment: 0
@@ -638,8 +638,8 @@ TextureImporter:
       name: ConfessButton
       rect:
         serializedVersion: 2
-        x: 292
-        y: 19
+        x: 630
+        y: 622
         width: 97
         height: 122
       alignment: 9
@@ -659,8 +659,8 @@ TextureImporter:
       name: ControlButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 334
+        x: 547
+        y: 1007
         width: 106
         height: 110
       alignment: 0
@@ -680,8 +680,8 @@ TextureImporter:
       name: CookButton
       rect:
         serializedVersion: 2
-        x: 608
-        y: 1358
+        x: 597
+        y: 1821
         width: 115
         height: 116
       alignment: 0
@@ -701,8 +701,8 @@ TextureImporter:
       name: CrewSwoopButton
       rect:
         serializedVersion: 2
-        x: 364
-        y: 1249
+        x: 357
+        y: 1714
         width: 115
         height: 107
       alignment: 0
@@ -722,8 +722,8 @@ TextureImporter:
       name: CrewUnswoopButton
       rect:
         serializedVersion: 2
-        x: 240
-        y: 1195
+        x: 235
+        y: 1662
         width: 115
         height: 107
       alignment: 0
@@ -743,8 +743,8 @@ TextureImporter:
       name: DeployButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 540
+        x: 882
+        y: 956
         width: 110
         height: 106
       alignment: 0
@@ -764,8 +764,8 @@ TextureImporter:
       name: DetonatingButton
       rect:
         serializedVersion: 2
-        x: 603
-        y: 1247
+        x: 827
+        y: 1668
         width: 114
         height: 109
       alignment: 9
@@ -785,8 +785,8 @@ TextureImporter:
       name: DisperseButton
       rect:
         serializedVersion: 2
-        x: 712
-        y: 1050
+        x: 0
+        y: 1322
         width: 112
         height: 104
       alignment: 9
@@ -806,8 +806,8 @@ TextureImporter:
       name: DouseButton
       rect:
         serializedVersion: 2
-        x: 914
-        y: 22
+        x: 943
+        y: 1734
         width: 81
         height: 105
       alignment: 9
@@ -827,8 +827,8 @@ TextureImporter:
       name: DragButton
       rect:
         serializedVersion: 2
-        x: 608
-        y: 1476
+        x: 597
+        y: 1937
         width: 116
         height: 111
       alignment: 0
@@ -848,8 +848,8 @@ TextureImporter:
       name: DropButton
       rect:
         serializedVersion: 2
-        x: 488
-        y: 1465
+        x: 479
+        y: 1926
         width: 118
         height: 122
       alignment: 9
@@ -869,8 +869,8 @@ TextureImporter:
       name: EngiVentButton
       rect:
         serializedVersion: 2
-        x: 348
-        y: 966
+        x: 576
+        y: 1529
         width: 112
         height: 72
       alignment: 9
@@ -890,8 +890,8 @@ TextureImporter:
       name: ExamineButton
       rect:
         serializedVersion: 2
-        x: 220
-        y: 255
+        x: 653
+        y: 970
         width: 105
         height: 109
       alignment: 0
@@ -911,8 +911,8 @@ TextureImporter:
       name: ExeTormentButton
       rect:
         serializedVersion: 2
-        x: 940
-        y: 982
+        x: 945
+        y: 1951
         width: 71
         height: 97
       alignment: 0
@@ -932,8 +932,8 @@ TextureImporter:
       name: FixButton
       rect:
         serializedVersion: 2
-        x: 827
-        y: 37
+        x: 305
+        y: 442
         width: 85
         height: 106
       alignment: 0
@@ -953,8 +953,8 @@ TextureImporter:
       name: FlashButton
       rect:
         serializedVersion: 2
-        x: 230
-        y: 794
+        x: 912
+        y: 1282
         width: 111
         height: 116
       alignment: 0
@@ -974,8 +974,8 @@ TextureImporter:
       name: FlushButton
       rect:
         serializedVersion: 2
-        x: 864
-        y: 232
+        x: 727
+        y: 597
         width: 95
         height: 106
       alignment: 0
@@ -995,8 +995,8 @@ TextureImporter:
       name: FortifyButton
       rect:
         serializedVersion: 2
-        x: 123
-        y: 1484
+        x: 120
+        y: 1945
         width: 120
         height: 103
       alignment: 0
@@ -1016,8 +1016,8 @@ TextureImporter:
       name: FreeplayModifierButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1292
+        x: 0
+        y: 1757
         width: 118
         height: 86
       alignment: 9
@@ -1037,8 +1037,8 @@ TextureImporter:
       name: FreeplayResetButton
       rect:
         serializedVersion: 2
-        x: 844
-        y: 1498
+        x: 829
+        y: 1959
         width: 116
         height: 89
       alignment: 0
@@ -1058,8 +1058,8 @@ TextureImporter:
       name: FreeplayRoleButton
       rect:
         serializedVersion: 2
-        x: 844
-        y: 1410
+        x: 829
+        y: 1873
         width: 116
         height: 86
       alignment: 9
@@ -1079,8 +1079,8 @@ TextureImporter:
       name: GazeButton
       rect:
         serializedVersion: 2
-        x: 555
-        y: 352
+        x: 214
+        y: 763
         width: 106
         height: 97
       alignment: 0
@@ -1100,8 +1100,8 @@ TextureImporter:
       name: GlitchKillButton
       rect:
         serializedVersion: 2
-        x: 228
-        y: 682
+        x: 784
+        y: 1128
         width: 110
         height: 110
       alignment: 0
@@ -1121,8 +1121,8 @@ TextureImporter:
       name: GlitchVentButton
       rect:
         serializedVersion: 2
-        x: 231
-        y: 912
+        x: 576
+        y: 1457
         width: 112
         height: 72
       alignment: 9
@@ -1142,8 +1142,8 @@ TextureImporter:
       name: GuardButton
       rect:
         serializedVersion: 2
-        x: 842
-        y: 1197
+        x: 231
+        y: 1549
         width: 113
         height: 113
       alignment: 0
@@ -1163,8 +1163,8 @@ TextureImporter:
       name: HackButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 446
+        x: 439
+        y: 1117
         width: 109
         height: 92
       alignment: 0
@@ -1184,8 +1184,8 @@ TextureImporter:
       name: HerbConfuseButton
       rect:
         serializedVersion: 2
-        x: 336
-        y: 367
+        x: 215
+        y: 860
         width: 107
         height: 110
       alignment: 0
@@ -1205,8 +1205,8 @@ TextureImporter:
       name: HerbExposeButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
+        x: 522
+        y: 593
         width: 97
         height: 112
       alignment: 0
@@ -1226,8 +1226,8 @@ TextureImporter:
       name: HerbProtectButton
       rect:
         serializedVersion: 2
-        x: 391
-        y: 25
+        x: 509
+        y: 477
         width: 93
         height: 116
       alignment: 0
@@ -1247,8 +1247,8 @@ TextureImporter:
       name: HexBombButton
       rect:
         serializedVersion: 2
-        x: 783
-        y: 446
+        x: 435
+        y: 899
         width: 106
         height: 110
       alignment: 0
@@ -1268,8 +1268,8 @@ TextureImporter:
       name: HexButton
       rect:
         serializedVersion: 2
-        x: 891
-        y: 432
+        x: 212
+        y: 659
         width: 102
         height: 104
       alignment: 0
@@ -1289,8 +1289,8 @@ TextureImporter:
       name: HunterKillButton
       rect:
         serializedVersion: 2
-        x: 114
-        y: 664
+        x: 894
+        y: 1062
         width: 110
         height: 110
       alignment: 0
@@ -1310,8 +1310,8 @@ TextureImporter:
       name: HypnotiseButton
       rect:
         serializedVersion: 2
-        x: 663
-        y: 311
+        x: 645
+        y: 744
         width: 99
         height: 116
       alignment: 0
@@ -1331,8 +1331,8 @@ TextureImporter:
       name: IgniteButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 760
+        x: 453
+        y: 1319
         width: 111
         height: 111
       alignment: 0
@@ -1352,8 +1352,8 @@ TextureImporter:
       name: InfectButton
       rect:
         serializedVersion: 2
-        x: 118
-        y: 1043
+        x: 586
+        y: 1601
         width: 113
         height: 114
       alignment: 0
@@ -1373,8 +1373,8 @@ TextureImporter:
       name: InquireButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 217
+        x: 758
+        y: 906
         width: 104
         height: 115
       alignment: 9
@@ -1394,8 +1394,8 @@ TextureImporter:
       name: InquisKillButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 648
+        x: 112
+        y: 1289
         width: 110
         height: 110
       alignment: 0
@@ -1415,8 +1415,8 @@ TextureImporter:
       name: InspectButton
       rect:
         serializedVersion: 2
-        x: 123
-        y: 1380
+        x: 120
+        y: 1843
         width: 119
         height: 102
       alignment: 9
@@ -1436,8 +1436,8 @@ TextureImporter:
       name: IntuitButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 115
+        x: 320
+        y: 747
         width: 103
         height: 100
       alignment: 0
@@ -1457,8 +1457,8 @@ TextureImporter:
       name: JailButton
       rect:
         serializedVersion: 2
-        x: 880
-        y: 340
+        x: 314
+        y: 657
         width: 99
         height: 90
       alignment: 0
@@ -1478,8 +1478,8 @@ TextureImporter:
       name: JesterHauntButton
       rect:
         serializedVersion: 2
-        x: 113
-        y: 460
+        x: 0
+        y: 1028
         width: 109
         height: 93
       alignment: 0
@@ -1499,8 +1499,8 @@ TextureImporter:
       name: JesterPokeButton
       rect:
         serializedVersion: 2
-        x: 367
-        y: 1478
+        x: 360
+        y: 1939
         width: 119
         height: 109
       alignment: 0
@@ -1520,8 +1520,8 @@ TextureImporter:
       name: JesterVentButton
       rect:
         serializedVersion: 2
-        x: 116
-        y: 889
+        x: 457
+        y: 1430
         width: 112
         height: 72
       alignment: 9
@@ -1541,8 +1541,8 @@ TextureImporter:
       name: JuggKillButton
       rect:
         serializedVersion: 2
-        x: 807
-        y: 774
+        x: 0
+        y: 1212
         width: 110
         height: 110
       alignment: 0
@@ -1562,8 +1562,8 @@ TextureImporter:
       name: JuggVentButton
       rect:
         serializedVersion: 2
-        x: 467
-        y: 1059
+        x: 699
+        y: 1563
         width: 112
         height: 73
       alignment: 9
@@ -1583,8 +1583,8 @@ TextureImporter:
       name: KillButton
       rect:
         serializedVersion: 2
-        x: 688
-        y: 743
+        x: 222
+        y: 1289
         width: 110
         height: 110
       alignment: 0
@@ -1604,8 +1604,8 @@ TextureImporter:
       name: KnightButton
       rect:
         serializedVersion: 2
-        x: 486
-        y: 1349
+        x: 477
+        y: 1812
         width: 115
         height: 114
       alignment: 0
@@ -1625,8 +1625,8 @@ TextureImporter:
       name: MagicMirrorButton
       rect:
         serializedVersion: 2
-        x: 928
-        y: 865
+        x: 937
+        y: 648
         width: 87
         height: 115
       alignment: 0
@@ -1646,8 +1646,8 @@ TextureImporter:
       name: MarkButton
       rect:
         serializedVersion: 2
-        x: 541
-        y: 136
+        x: 305
+        y: 548
         width: 95
         height: 109
       alignment: 9
@@ -1667,8 +1667,8 @@ TextureImporter:
       name: MediateButton
       rect:
         serializedVersion: 2
-        x: 905
-        y: 538
+        x: 329
+        y: 1017
         width: 108
         height: 93
       alignment: 0
@@ -1688,8 +1688,8 @@ TextureImporter:
       name: MedicButton
       rect:
         serializedVersion: 2
-        x: 588
-        y: 1039
+        x: 820
+        y: 1569
         width: 112
         height: 99
       alignment: 0
@@ -1709,8 +1709,8 @@ TextureImporter:
       name: MedusaPetrifyButton
       rect:
         serializedVersion: 2
-        x: 553
-        y: 247
+        x: 531
+        y: 705
         width: 99
         height: 103
       alignment: 0
@@ -1730,8 +1730,8 @@ TextureImporter:
       name: MedusaStoneGazeButton
       rect:
         serializedVersion: 2
-        x: 726
-        y: 1486
+        x: 713
+        y: 1947
         width: 116
         height: 101
       alignment: 9
@@ -1751,8 +1751,8 @@ TextureImporter:
       name: MedusaVentButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 873
+        x: 341
+        y: 1424
         width: 112
         height: 72
       alignment: 9
@@ -1772,8 +1772,8 @@ TextureImporter:
       name: MimicButton
       rect:
         serializedVersion: 2
-        x: 357
-        y: 1147
+        x: 472
+        y: 1712
         width: 114
         height: 100
       alignment: 0
@@ -1793,8 +1793,8 @@ TextureImporter:
       name: MineButton
       rect:
         serializedVersion: 2
-        x: 244
-        y: 1304
+        x: 239
+        y: 1769
         width: 118
         height: 87
       alignment: 0
@@ -1814,8 +1814,8 @@ TextureImporter:
       name: MorphButton
       rect:
         serializedVersion: 2
-        x: 236
-        y: 1093
+        x: 706
+        y: 1636
         width: 114
         height: 100
       alignment: 0
@@ -1835,8 +1835,8 @@ TextureImporter:
       name: NoAbilityButton
       rect:
         serializedVersion: 2
-        x: 233
-        y: 986
+        x: 344
+        y: 1496
         width: 113
         height: 105
       alignment: 0
@@ -1856,8 +1856,8 @@ TextureImporter:
       name: ObserveButton
       rect:
         serializedVersion: 2
-        x: 245
-        y: 1503
+        x: 240
+        y: 1964
         width: 120
         height: 84
       alignment: 0
@@ -1877,8 +1877,8 @@ TextureImporter:
       name: OfficerLoadButton
       rect:
         serializedVersion: 2
-        x: 113
-        y: 555
+        x: 772
+        y: 1021
         width: 110
         height: 107
       alignment: 0
@@ -1898,8 +1898,8 @@ TextureImporter:
       name: OfficerShootButton
       rect:
         serializedVersion: 2
-        x: 571
-        y: 736
+        x: 332
+        y: 1221
         width: 110
         height: 110
       alignment: 0
@@ -1919,8 +1919,8 @@ TextureImporter:
       name: OverchargeButton
       rect:
         serializedVersion: 2
-        x: 719
-        y: 1156
+        x: 115
+        y: 1513
         width: 113
         height: 113
       alignment: 9
@@ -1940,8 +1940,8 @@ TextureImporter:
       name: OverclockerOverButton
       rect:
         serializedVersion: 2
-        x: 655
-        y: 116
+        x: 932
+        y: 1582
         width: 91
         height: 86
       alignment: 9
@@ -1961,8 +1961,8 @@ TextureImporter:
       name: OverclockerUnderButton
       rect:
         serializedVersion: 2
-        x: 440
-        y: 193
+        x: 423
+        y: 692
         width: 99
         height: 94
       alignment: 0
@@ -1982,8 +1982,8 @@ TextureImporter:
       name: OvertakeButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1171
+        x: 0
+        y: 1638
         width: 116
         height: 119
       alignment: 0
@@ -2003,8 +2003,8 @@ TextureImporter:
       name: PestKillButton
       rect:
         serializedVersion: 2
-        x: 455
-        y: 686
+        x: 442
+        y: 1209
         width: 110
         height: 110
       alignment: 0
@@ -2024,8 +2024,8 @@ TextureImporter:
       name: PestVentButton
       rect:
         serializedVersion: 2
-        x: 826
-        y: 1007
+        x: 225
+        y: 1399
         width: 112
         height: 72
       alignment: 9
@@ -2045,8 +2045,8 @@ TextureImporter:
       name: PhantomSpookButton
       rect:
         serializedVersion: 2
-        x: 725
-        y: 1271
+        x: 712
+        y: 1736
         width: 115
         height: 95
       alignment: 0
@@ -2066,8 +2066,8 @@ TextureImporter:
       name: PlaceButton
       rect:
         serializedVersion: 2
-        x: 322
-        y: 143
+        x: 822
+        y: 554
         width: 85
         height: 100
       alignment: 9
@@ -2087,8 +2087,8 @@ TextureImporter:
       name: PoisonButton
       rect:
         serializedVersion: 2
-        x: 655
-        y: 7
+        x: 714
+        y: 490
         width: 84
         height: 107
       alignment: 9
@@ -2108,8 +2108,8 @@ TextureImporter:
       name: PoisonedButton
       rect:
         serializedVersion: 2
-        x: 741
-        y: 7
+        x: 602
+        y: 413
         width: 84
         height: 107
       alignment: 9
@@ -2129,8 +2129,8 @@ TextureImporter:
       name: ProtectButton
       rect:
         serializedVersion: 2
-        x: 452
-        y: 573
+        x: 330
+        y: 1110
         width: 109
         height: 111
       alignment: 0
@@ -2150,8 +2150,8 @@ TextureImporter:
       name: PursueButton
       rect:
         serializedVersion: 2
-        x: 795
-        y: 558
+        x: 439
+        y: 1009
         width: 108
         height: 108
       alignment: 0
@@ -2171,8 +2171,8 @@ TextureImporter:
       name: RampageButton
       rect:
         serializedVersion: 2
-        x: 121
-        y: 1268
+        x: 118
+        y: 1733
         width: 117
         height: 110
       alignment: 9
@@ -2192,8 +2192,8 @@ TextureImporter:
       name: ReapButton
       rect:
         serializedVersion: 2
-        x: 338
-        y: 557
+        x: 220
+        y: 1105
         width: 109
         height: 109
       alignment: 0
@@ -2213,8 +2213,8 @@ TextureImporter:
       name: ReaperVentButton
       rect:
         serializedVersion: 2
-        x: 702
-        y: 976
+        x: 800
+        y: 1425
         width: 112
         height: 72
       alignment: 9
@@ -2234,8 +2234,8 @@ TextureImporter:
       name: RecallButton
       rect:
         serializedVersion: 2
-        x: 558
-        y: 25
+        x: 842
+        y: 654
         width: 95
         height: 109
       alignment: 9
@@ -2255,8 +2255,8 @@ TextureImporter:
       name: RememberButton
       rect:
         serializedVersion: 2
-        x: 225
-        y: 465
+        x: 110
+        y: 1082
         width: 109
         height: 103
       alignment: 0
@@ -2276,8 +2276,8 @@ TextureImporter:
       name: ReviveButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1481
+        x: 0
+        y: 1942
         width: 120
         height: 106
       alignment: 0
@@ -2297,8 +2297,8 @@ TextureImporter:
       name: RewindButton
       rect:
         serializedVersion: 2
-        x: 576
-        y: 848
+        x: 790
+        y: 1238
         width: 110
         height: 115
       alignment: 0
@@ -2318,8 +2318,8 @@ TextureImporter:
       name: RewindingButton
       rect:
         serializedVersion: 2
-        x: 333
-        y: 245
+        x: 0
+        y: 606
         width: 105
         height: 120
       alignment: 0
@@ -2339,8 +2339,8 @@ TextureImporter:
       name: SampleButton
       rect:
         serializedVersion: 2
-        x: 224
-        y: 366
+        x: 107
+        y: 788
         width: 107
         height: 97
       alignment: 0
@@ -2360,8 +2360,8 @@ TextureImporter:
       name: SeerButton
       rect:
         serializedVersion: 2
-        x: 109
-        y: 247
+        x: 541
+        y: 910
         width: 105
         height: 97
       alignment: 0
@@ -2381,8 +2381,8 @@ TextureImporter:
       name: ServeBurgerButton
       rect:
         serializedVersion: 2
-        x: 563
-        y: 567
+        x: 219
+        y: 1015
         width: 108
         height: 90
       alignment: 0
@@ -2402,8 +2402,8 @@ TextureImporter:
       name: ServeCakeButton
       rect:
         serializedVersion: 2
-        x: 449
-        y: 488
+        x: 109
+        y: 999
         width: 108
         height: 83
       alignment: 9
@@ -2423,8 +2423,8 @@ TextureImporter:
       name: ServeEmptyButton
       rect:
         serializedVersion: 2
-        x: 673
-        y: 535
+        x: 217
+        y: 970
         width: 108
         height: 45
       alignment: 2
@@ -2444,8 +2444,8 @@ TextureImporter:
       name: ServeSalmonButton
       rect:
         serializedVersion: 2
-        x: 673
-        y: 582
+        x: 327
+        y: 951
         width: 108
         height: 66
       alignment: 9
@@ -2465,8 +2465,8 @@ TextureImporter:
       name: ServeTurkeyButton
       rect:
         serializedVersion: 2
-        x: 336
-        y: 479
+        x: 0
+        y: 952
         width: 108
         height: 76
       alignment: 9
@@ -2486,8 +2486,8 @@ TextureImporter:
       name: SheriffShootButton
       rect:
         serializedVersion: 2
-        x: 340
-        y: 668
+        x: 552
+        y: 1117
         width: 110
         height: 110
       alignment: 0
@@ -2507,8 +2507,8 @@ TextureImporter:
       name: ShiftButton
       rect:
         serializedVersion: 2
-        x: 843
-        y: 1312
+        x: 828
+        y: 1777
         width: 115
         height: 96
       alignment: 9
@@ -2528,8 +2528,8 @@ TextureImporter:
       name: StalkButton
       rect:
         serializedVersion: 2
-        x: 446
-        y: 372
+        x: 0
+        y: 838
         width: 107
         height: 114
       alignment: 0
@@ -2549,8 +2549,8 @@ TextureImporter:
       name: SwoopButton
       rect:
         serializedVersion: 2
-        x: 119
-        y: 1159
+        x: 116
+        y: 1626
         width: 115
         height: 107
       alignment: 0
@@ -2570,8 +2570,8 @@ TextureImporter:
       name: TrackButton
       rect:
         serializedVersion: 2
-        x: 459
-        y: 798
+        x: 674
+        y: 1189
         width: 110
         height: 111
       alignment: 0
@@ -2591,8 +2591,8 @@ TextureImporter:
       name: TraitorSelect
       rect:
         serializedVersion: 2
-        x: 481
-        y: 1241
+        x: 592
+        y: 1715
         width: 114
         height: 106
       alignment: 0
@@ -2612,8 +2612,8 @@ TextureImporter:
       name: TransportButton
       rect:
         serializedVersion: 2
-        x: 800
-        y: 668
+        x: 110
+        y: 1185
         width: 110
         height: 104
       alignment: 0
@@ -2633,8 +2633,8 @@ TextureImporter:
       name: TrapButton
       rect:
         serializedVersion: 2
-        x: 776
-        y: 359
+        x: 862
+        y: 871
         width: 102
         height: 85
       alignment: 9
@@ -2654,8 +2654,8 @@ TextureImporter:
       name: UnleashButton
       rect:
         serializedVersion: 2
-        x: 912
-        y: 633
+        x: 428
+        y: 786
         width: 103
         height: 113
       alignment: 0
@@ -2675,8 +2675,8 @@ TextureImporter:
       name: UnswoopButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1062
+        x: 0
+        y: 1531
         width: 115
         height: 107
       alignment: 0
@@ -2696,8 +2696,8 @@ TextureImporter:
       name: VampVentButton
       rect:
         serializedVersion: 2
-        x: 581
-        y: 965
+        x: 912
+        y: 1398
         width: 112
         height: 72
       alignment: 9
@@ -2717,8 +2717,8 @@ TextureImporter:
       name: VentButton
       rect:
         serializedVersion: 2
-        x: 462
-        y: 911
+        x: 688
+        y: 1419
         width: 112
         height: 72
       alignment: 9
@@ -2738,8 +2738,8 @@ TextureImporter:
       name: VestButton
       rect:
         serializedVersion: 2
-        x: 764
-        y: 249
+        x: 850
+        y: 763
         width: 98
         height: 108
       alignment: 0
@@ -2759,8 +2759,8 @@ TextureImporter:
       name: VitalsButton
       rect:
         serializedVersion: 2
-        x: 116
-        y: 963
+        x: 228
+        y: 1471
         width: 113
         height: 78
       alignment: 0
@@ -2780,8 +2780,8 @@ TextureImporter:
       name: WatchButton
       rect:
         serializedVersion: 2
-        x: 754
-        y: 145
+        x: 619
+        y: 520
         width: 95
         height: 102
       alignment: 0
@@ -2801,8 +2801,8 @@ TextureImporter:
       name: WinePoisonButton
       rect:
         serializedVersion: 2
-        x: 919
-        y: 748
+        x: 413
+        y: 577
         width: 96
         height: 115
       alignment: 9
@@ -2822,8 +2822,8 @@ TextureImporter:
       name: WineRoleblockButton
       rect:
         serializedVersion: 2
-        x: 486
-        y: 22
+        x: 945
+        y: 1839
         width: 70
         height: 112
       alignment: 9
@@ -2843,8 +2843,8 @@ TextureImporter:
       name: WineSickenButton
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1
+        x: 932
+        y: 1470
         width: 90
         height: 112
       alignment: 9
@@ -2864,8 +2864,8 @@ TextureImporter:
       name: WolfKillButton
       rect:
         serializedVersion: 2
-        x: 226
-        y: 570
+        x: 662
+        y: 1079
         width: 110
         height: 110
       alignment: 0
@@ -2885,8 +2885,8 @@ TextureImporter:
       name: WolfVentButton
       rect:
         serializedVersion: 2
-        x: 345
-        y: 892
+        x: 800
+        y: 1353
         width: 112
         height: 72
       alignment: 9
@@ -2898,6 +2898,90 @@ TextureImporter:
       bones: []
       spriteID: a0bb2411519c1534b96e7b1610e56a95
       internalID: 1751763441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostwalkerVentSprite
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1491
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd841fdda23e3446acc38f9a22dcb92
+      internalID: 1270824360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MassHysteriaSprite
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 808
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61747cd8cbf69ab4993a57c0327cb9e3
+      internalID: 851054052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MayorRevealSprite
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 606
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28bad6c8a811f945bdcf0a226f166db
+      internalID: -947351393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProsecutorToggleSprite
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1331
+        width: 111
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5225225, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fab1cc129291fe45a3b25eedbeafdd1
+      internalID: -1670670204
       vertices: []
       indices: 
       edges: []
@@ -2960,6 +3044,7 @@ TextureImporter:
       FreeplayResetButton: 1784590981
       FreeplayRoleButton: -890994091
       GazeButton: 1880553766
+      GhostwalkerVentSprite: 1270824360
       GlitchKillButton: 2038563882
       GlitchVentButton: -1642230269
       GuardButton: -351170688
@@ -2987,6 +3072,8 @@ TextureImporter:
       KnightButton: -230760506
       MagicMirrorButton: 1857423198
       MarkButton: -2008463470
+      MassHysteriaSprite: 851054052
+      MayorRevealSprite: -947351393
       MediateButton: 1384119632
       MedicButton: -1631165493
       MedusaPetrifyButton: -886593362
@@ -3009,6 +3096,7 @@ TextureImporter:
       PlaceButton: 1951965856
       PoisonButton: -1727657562
       PoisonedButton: 283688704
+      ProsecutorToggleSprite: -1670670204
       ProtectButton: 762201050
       PursueButton: 329788387
       RampageButton: 1676502450

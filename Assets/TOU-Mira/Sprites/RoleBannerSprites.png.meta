@@ -113,8 +113,8 @@ TextureImporter:
       name: AurialBanner
       rect:
         serializedVersion: 2
-        x: 1116
-        y: 0
+        x: 1
+        y: 411
         width: 372
         height: 232
       alignment: 0
@@ -134,8 +134,8 @@ TextureImporter:
       name: ClericBanner
       rect:
         serializedVersion: 2
-        x: 744
-        y: 0
+        x: 375
+        y: 645
         width: 372
         height: 232
       alignment: 0
@@ -155,8 +155,8 @@ TextureImporter:
       name: CrewmateBanner
       rect:
         serializedVersion: 2
-        x: 372
-        y: 0
+        x: 1675
+        y: 879
         width: 372
         height: 232
       alignment: 0
@@ -176,8 +176,8 @@ TextureImporter:
       name: DeputyBanner
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 749
+        y: 879
         width: 372
         height: 232
       alignment: 0
@@ -197,8 +197,8 @@ TextureImporter:
       name: EngineerBanner
       rect:
         serializedVersion: 2
-        x: 1488
-        y: 232
+        x: 1
+        y: 645
         width: 372
         height: 232
       alignment: 0
@@ -218,8 +218,8 @@ TextureImporter:
       name: EscapistBanner
       rect:
         serializedVersion: 2
-        x: 1116
-        y: 232
+        x: 375
+        y: 879
         width: 372
         height: 232
       alignment: 0
@@ -239,8 +239,8 @@ TextureImporter:
       name: ForensicBanner
       rect:
         serializedVersion: 2
-        x: 1488
-        y: 464
+        x: 1675
+        y: 1
         width: 372
         height: 232
       alignment: 0
@@ -260,8 +260,8 @@ TextureImporter:
       name: HaunterBanner
       rect:
         serializedVersion: 2
-        x: 744
-        y: 232
+        x: 1
+        y: 1
         width: 372
         height: 232
       alignment: 0
@@ -281,8 +281,8 @@ TextureImporter:
       name: HunterBanner
       rect:
         serializedVersion: 2
-        x: 1116
-        y: 464
+        x: 1
+        y: 879
         width: 372
         height: 232
       alignment: 0
@@ -302,8 +302,8 @@ TextureImporter:
       name: ImpostorBanner
       rect:
         serializedVersion: 2
-        x: 1488
-        y: 696
+        x: 1123
+        y: 1113
         width: 372
         height: 232
       alignment: 0
@@ -323,8 +323,8 @@ TextureImporter:
       name: InvestigatorBanner
       rect:
         serializedVersion: 2
-        x: 372
-        y: 232
+        x: 749
+        y: 1113
         width: 372
         height: 232
       alignment: 0
@@ -344,8 +344,8 @@ TextureImporter:
       name: JesterBanner
       rect:
         serializedVersion: 2
-        x: 744
-        y: 464
+        x: 1123
+        y: 1347
         width: 372
         height: 232
       alignment: 0
@@ -365,8 +365,8 @@ TextureImporter:
       name: LookoutBanner
       rect:
         serializedVersion: 2
-        x: 1116
-        y: 696
+        x: 375
+        y: 1113
         width: 372
         height: 232
       alignment: 0
@@ -386,8 +386,8 @@ TextureImporter:
       name: MedicBanner
       rect:
         serializedVersion: 2
-        x: 1488
-        y: 928
+        x: 749
+        y: 1347
         width: 372
         height: 232
       alignment: 0
@@ -407,8 +407,8 @@ TextureImporter:
       name: MediumBanner
       rect:
         serializedVersion: 2
-        x: 0
-        y: 232
+        x: 1123
+        y: 1581
         width: 372
         height: 232
       alignment: 0
@@ -428,8 +428,8 @@ TextureImporter:
       name: MinerBanner
       rect:
         serializedVersion: 2
-        x: 372
-        y: 464
+        x: 1675
+        y: 1113
         width: 372
         height: 232
       alignment: 0
@@ -449,8 +449,8 @@ TextureImporter:
       name: MysticBanner
       rect:
         serializedVersion: 2
-        x: 744
-        y: 696
+        x: 1675
+        y: 1347
         width: 372
         height: 232
       alignment: 0
@@ -470,8 +470,8 @@ TextureImporter:
       name: NeutralBanner
       rect:
         serializedVersion: 2
-        x: 0
-        y: 464
+        x: 1
+        y: 1113
         width: 372
         height: 232
       alignment: 0
@@ -491,8 +491,8 @@ TextureImporter:
       name: ProsecutorBanner
       rect:
         serializedVersion: 2
-        x: 372
-        y: 696
+        x: 375
+        y: 1347
         width: 372
         height: 232
       alignment: 0
@@ -512,8 +512,8 @@ TextureImporter:
       name: SeerBanner
       rect:
         serializedVersion: 2
-        x: 1116
-        y: 928
+        x: 1675
+        y: 1581
         width: 372
         height: 232
       alignment: 0
@@ -533,8 +533,8 @@ TextureImporter:
       name: SentryBanner
       rect:
         serializedVersion: 2
-        x: 744
-        y: 928
+        x: 749
+        y: 1581
         width: 372
         height: 232
       alignment: 0
@@ -554,8 +554,8 @@ TextureImporter:
       name: SheriffBanner
       rect:
         serializedVersion: 2
-        x: 0
-        y: 696
+        x: 1
+        y: 1347
         width: 372
         height: 232
       alignment: 0
@@ -575,8 +575,8 @@ TextureImporter:
       name: SnitchBanner
       rect:
         serializedVersion: 2
-        x: 372
-        y: 928
+        x: 375
+        y: 1581
         width: 372
         height: 232
       alignment: 0
@@ -596,8 +596,8 @@ TextureImporter:
       name: SonarBanner
       rect:
         serializedVersion: 2
-        x: 1488
-        y: 1160
+        x: 1123
+        y: 1815
         width: 372
         height: 232
       alignment: 0
@@ -617,8 +617,8 @@ TextureImporter:
       name: SpectreBanner
       rect:
         serializedVersion: 2
-        x: 1116
-        y: 1160
+        x: 1675
+        y: 1815
         width: 372
         height: 232
       alignment: 0
@@ -638,8 +638,8 @@ TextureImporter:
       name: SpyBanner
       rect:
         serializedVersion: 2
-        x: 744
-        y: 1160
+        x: 749
+        y: 1815
         width: 372
         height: 232
       alignment: 0
@@ -659,8 +659,8 @@ TextureImporter:
       name: TrapperBanner
       rect:
         serializedVersion: 2
-        x: 0
-        y: 928
+        x: 1
+        y: 1581
         width: 372
         height: 232
       alignment: 0
@@ -680,8 +680,8 @@ TextureImporter:
       name: UndertakerBanner
       rect:
         serializedVersion: 2
-        x: 372
-        y: 1160
+        x: 375
+        y: 1815
         width: 372
         height: 232
       alignment: 0
@@ -701,8 +701,8 @@ TextureImporter:
       name: WipBanner
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1160
+        x: 1
+        y: 1815
         width: 372
         height: 232
       alignment: 0
