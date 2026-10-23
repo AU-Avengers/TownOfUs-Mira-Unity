@@ -29,7 +29,11 @@ namespace Editor
 
             BuildBundle("tou-assets-android.bundle", BuildTarget.Android);
 
-            Debug.Log("Finished building ANDROID asset bundle.");
+            Debug.Log("Finished building ANDROID asset bundle. Starting IOS build...");
+
+            BuildBundle("tou-assets-ios.bundle", BuildTarget.iOS);
+
+            Debug.Log("Finished building IOS asset bundle.");
 
             Debug.Log("Asset bundles are located in the AssetBundles folder in the project root.");
         }
