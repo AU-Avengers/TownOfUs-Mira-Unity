@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 1d95942d2af511544baf607645278f09
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135935
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1
+        width: 176
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5511364, y: 0.5736842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877fb3047989f254aa0ad14398b008fd
+      internalID: -1338905764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135937
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1065
+        width: 197
+        height: 182
+      alignment: 9
+      pivot: {x: 0.43654823, y: 0.5934066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4497d0d1775475d41ab9a1d1ae4814fc
+      internalID: 504083876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135938
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1675
+        width: 179
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46368715, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c3e5cbc06416046929fafc9db1a304
+      internalID: -1861339910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135939
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 389
+        width: 192
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cda02d51c90f0489ade2417554c8d7
+      internalID: -1569216205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135941
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 184
+        height: 191
+      alignment: 9
+      pivot: {x: 0.48369566, y: 0.5706806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e2f200df91cf4095cedce7cfd918d
+      internalID: 536697772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135942
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1649
+        width: 201
+        height: 198
+      alignment: 9
+      pivot: {x: 0.41791046, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf772246c46b4449b86f3b174693634
+      internalID: 1330563531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135944
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1849
+        width: 201
+        height: 198
+      alignment: 9
+      pivot: {x: 0.41791046, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1511d52f33240bb4a9ea33a671fd5a5c
+      internalID: -792478773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135945
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1449
+        width: 192
+        height: 198
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4ba32269fe88d4b990baa679f70e96
+      internalID: 267592330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135947
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1249
+        width: 189
+        height: 198
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f31e50fe2893834fb7a2800c1e56f10
+      internalID: 1364217184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135948
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 180
+        height: 193
+      alignment: 9
+      pivot: {x: 0.45555556, y: 0.5595855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d225f2d386a491b4ca06a76ad8a4881b
+      internalID: -1928808192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135950
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 866
+        width: 180
+        height: 197
+      alignment: 9
+      pivot: {x: 0.48333332, y: 0.5532995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783590a523a6ba547a7017c1136618fd
+      internalID: -1669404165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135952
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 571
+        width: 175
+        height: 194
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.556701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f8970618bd2d44b4e71381ee99c67
+      internalID: 1811259498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wraith RobeScare_20261030135954
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1857
+        width: 176
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5511364, y: 0.5736842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca32fdda92e37546ada34c308a0d241
+      internalID: 3464432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 83d132f934cc65d47890e7009965dfb8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wraith RobeScare_20261030135935: -1338905764
+      Wraith RobeScare_20261030135937: 504083876
+      Wraith RobeScare_20261030135938: -1861339910
+      Wraith RobeScare_20261030135939: -1569216205
+      Wraith RobeScare_20261030135941: 536697772
+      Wraith RobeScare_20261030135942: 1330563531
+      Wraith RobeScare_20261030135944: -792478773
+      Wraith RobeScare_20261030135945: 267592330
+      Wraith RobeScare_20261030135947: 1364217184
+      Wraith RobeScare_20261030135948: -1928808192
+      Wraith RobeScare_20261030135950: -1669404165
+      Wraith RobeScare_20261030135952: 1811259498
+      Wraith RobeScare_20261030135954: 3464432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

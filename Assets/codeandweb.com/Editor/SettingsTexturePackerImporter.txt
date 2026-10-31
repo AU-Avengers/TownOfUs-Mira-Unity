@@ -12,6 +12,9 @@ tpsheetFileNames:
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsGavelFront.tpsheet
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsGavelHammer.tpsheet
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsPointHand.tpsheet
+- Assets/TOU-Mira/Sprites/RoleVisuals/Wraith/WraithHands.tpsheet
+- Assets/TOU-Mira/Sprites/RoleVisuals/Wraith/WraithScareHands.tpsheet
+- Assets/TOU-Mira/Sprites/RoleVisuals/Wraith/WraithScareRobe.tpsheet
 - Assets/TOU-Mira/Sprites/Shields/ClericBarrier.tpsheet
 - Assets/TOU-Mira/Sprites/UiSprites.tpsheet
 textureFileNames:
@@ -27,10 +30,16 @@ textureFileNames:
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsGavelFront.png
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsGavelHammer.png
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsPointHand.png
+- Assets/TOU-Mira/Sprites/RoleVisuals/Wraith/WraithHands.png
+- Assets/TOU-Mira/Sprites/RoleVisuals/Wraith/WraithScareHands.png
+- Assets/TOU-Mira/Sprites/RoleVisuals/Wraith/WraithScareRobe.png
 - Assets/TOU-Mira/Sprites/Shields/ClericBarrier.png
 - Assets/TOU-Mira/Sprites/UiSprites.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
 - 
 - 
 - 
