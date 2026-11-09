@@ -1,0 +1,14 @@
+namespace AmongUs.GameOptions
+{
+    public enum RoleTypes : System.UInt16
+    {
+        Crewmate = 0,
+        Impostor = 1,
+        Scientist = 2,
+        Engineer = 3,
+        GuardianAngel = 4,
+        Shapeshifter = 5,
+        CrewmateGhost = 6,
+        ImpostorGhost = 7,
+    }
+}

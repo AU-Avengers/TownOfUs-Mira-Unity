@@ -1,0 +1,3 @@
+public class SkeldExileController : ExileController
+{
+}
