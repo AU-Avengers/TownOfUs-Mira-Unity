@@ -14,17 +14,17 @@ TagManager:
   - 
   - 
   - Players
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ship
+  - Shadow
+  - Objects
+  - ShortObjects
+  - IlluminatedBio
+  - Ghost
+  - UiCollide
+  - DrawShadows
+  - KeyMapper
+  - MusicTriggers
+  - Notifications
   - 
   - 
   - 
