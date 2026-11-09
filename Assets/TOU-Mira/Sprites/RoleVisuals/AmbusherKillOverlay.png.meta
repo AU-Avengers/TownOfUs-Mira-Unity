@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 7df07fa6431080741833442717fa346e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AmbushKill_20261108193659
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 120
+        width: 213
+        height: 211
+      alignment: 9
+      pivot: {x: 1.8591549, y: 0.5829384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573c36fa85611f244b2bf02c507bb7ab
+      internalID: 2070428968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193702
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 204
+        height: 214
+      alignment: 9
+      pivot: {x: 1.7990196, y: 0.57009345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba05fcf81dd08c94493c37400bf2f6a5
+      internalID: 337086842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193704
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 112
+        width: 219
+        height: 211
+      alignment: 9
+      pivot: {x: 1.6392694, y: 0.578199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eab7138409a41747bdc286a943678aa
+      internalID: 193985062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193706
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 122
+        width: 221
+        height: 220
+      alignment: 9
+      pivot: {x: 1.6742082, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3e38ce56f3e134ba7a5bfc822ee04c
+      internalID: -397331526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193708
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 67
+        width: 209
+        height: 238
+      alignment: 9
+      pivot: {x: 1.8373206, y: 0.5252101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07712af07b0d57749ba45f16bd68fc60
+      internalID: 751724833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193710
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 105
+        width: 155
+        height: 213
+      alignment: 9
+      pivot: {x: 2.116129, y: 0.58685446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95dc38de6d633a49a07a7eea9d1e7b0
+      internalID: -854929413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193712
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 26
+        width: 199
+        height: 207
+      alignment: 9
+      pivot: {x: 1.8442211, y: 0.5845411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532b998b16b26194c8d4584771103550
+      internalID: 1678488315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193714
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 108
+        width: 217
+        height: 210
+      alignment: 9
+      pivot: {x: 1.7557603, y: 0.5857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6339018a7bcb23045b2270ed0c6b9f59
+      internalID: -1021587840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193716
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 208
+        width: 213
+        height: 212
+      alignment: 9
+      pivot: {x: 1.7605634, y: 0.5801887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8f51150b0c38346a92a3794f1bade7
+      internalID: 1908536076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193718
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 113
+        width: 207
+        height: 216
+      alignment: 9
+      pivot: {x: 1.7826087, y: 0.5694444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250299ea9aab6924f8fa638aa20b310d
+      internalID: -38331486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193720
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 317
+        width: 397
+        height: 194
+      alignment: 9
+      pivot: {x: 0.81108314, y: 0.52061856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2271d0c079ec0c948aa4cfe40dc36dec
+      internalID: -461610307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193733
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 318
+        width: 421
+        height: 193
+      alignment: 9
+      pivot: {x: 0.6199525, y: 0.507772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6469bc6b8297e5b459d6c4faee3e6c5b
+      internalID: 869946833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193735
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 307
+        width: 348
+        height: 204
+      alignment: 9
+      pivot: {x: -0.13505746, y: 0.5245098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc002dac9642240a7555fb8d76003b
+      internalID: -1105510178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193742
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 311
+        width: 492
+        height: 200
+      alignment: 9
+      pivot: {x: 0.18699187, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5502e29d4bed3d0468667f320b79c57d
+      internalID: 648586443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193744
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 229
+        width: 300
+        height: 200
+      alignment: 9
+      pivot: {x: -0.33333334, y: 0.515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af375ada881cb6942a79833ecdff6187
+      internalID: 820388044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbushKill_20261108193746
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 311
+        width: 302
+        height: 200
+      alignment: 9
+      pivot: {x: -0.3245033, y: 0.515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c44d4985ef6e14db4a5e747ab81d63
+      internalID: -1407623763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: df94f46c1336b6d49a1476efe0d91677
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AmbushKill_20261108193659: 2070428968
+      AmbushKill_20261108193702: 337086842
+      AmbushKill_20261108193704: 193985062
+      AmbushKill_20261108193706: -397331526
+      AmbushKill_20261108193708: 751724833
+      AmbushKill_20261108193710: -854929413
+      AmbushKill_20261108193712: 1678488315
+      AmbushKill_20261108193714: -1021587840
+      AmbushKill_20261108193716: 1908536076
+      AmbushKill_20261108193718: -38331486
+      AmbushKill_20261108193720: -461610307
+      AmbushKill_20261108193733: 869946833
+      AmbushKill_20261108193735: -1105510178
+      AmbushKill_20261108193742: 648586443
+      AmbushKill_20261108193744: 820388044
+      AmbushKill_20261108193746: -1407623763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

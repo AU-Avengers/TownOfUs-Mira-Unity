@@ -5,6 +5,7 @@ tpsheetFileNames:
 - Assets/TOU-Mira/Sprites/CustomPets/BlackMinipostor/BlackMinipostor.tpsheet
 - Assets/TOU-Mira/Sprites/MeetingAbilitySprites.tpsheet
 - Assets/TOU-Mira/Sprites/RoleBannerSprites.tpsheet
+- Assets/TOU-Mira/Sprites/RoleVisuals/AmbusherKillOverlay.tpsheet
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsBodyBack.tpsheet
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsBodyFront.tpsheet
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsBodyPlayer.tpsheet
@@ -23,6 +24,7 @@ textureFileNames:
 - Assets/TOU-Mira/Sprites/CustomPets/BlackMinipostor/BlackMinipostor.png
 - Assets/TOU-Mira/Sprites/MeetingAbilitySprites.png
 - Assets/TOU-Mira/Sprites/RoleBannerSprites.png
+- Assets/TOU-Mira/Sprites/RoleVisuals/AmbusherKillOverlay.png
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsBodyBack.png
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsBodyFront.png
 - Assets/TOU-Mira/Sprites/RoleVisuals/Prosecutor/ProsBodyPlayer.png
@@ -37,6 +39,7 @@ textureFileNames:
 - Assets/TOU-Mira/Sprites/UiSprites.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
 - 
 - 
 - 
