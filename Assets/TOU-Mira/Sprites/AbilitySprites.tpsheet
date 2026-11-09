@@ -4,7 +4,7 @@
 # To import these sprites into your Unity project, download "TexturePackerImporter":
 # https://www.codeandweb.com/texturepacker/unity
 #
-# $TexturePacker:SmartUpdate:9edcfcde693db487315114d95fbaf7f1:f846bbc15afa24e80f5331bcbc01e021:0e8717baa3ece01fac10574184756390$
+# $TexturePacker:SmartUpdate:66a333b9449e17007d18dc376f609f30:a171f8d0f7bcc89bb2bb9f45ff9c0ab5:0e8717baa3ece01fac10574184756390$
 #
 :format=40300
 :texture=AbilitySprites.png
@@ -66,12 +66,12 @@ GlitchVentButton;115;1343;112;72; 0.5;0.3055555555555556; 0;0;0;0
 GuardButton;355;1491;113;113; 0.5;0.5; 0;0;0;0
 HackButton;225;874;109;92; 0.5;0.5; 0;0;0;0
 HerbConfuseButton;562;835;107;110; 0.5;0.5; 0;0;0;0
-HerbConfuseNextButton;121;1728;117;110; 0.5;0.5; 0;0;0;0
+HerbConfuseNextButton;121;1728;117;110; 0.5128205128205128;0.5181818181818182; 0;0;0;0
 HerbExposeButton;536;522;97;112; 0.5;0.5; 0;0;0;0
-HerbExposeNextButton;1;1640;117;110; 0.5;0.5; 0;0;0;0
-HerbKillNextButton;608;1937;117;110; 0.5;0.5; 0;0;0;0
+HerbExposeNextButton;1;1640;117;110; 0.5128205128205128;0.5181818181818182; 0;0;0;0
+HerbKillNextButton;608;1937;117;110; 0.5128205128205128;0.5181818181818182; 0;0;0;0
 HerbProtectButton;1;260;93;116; 0.5;0.5; 0;0;0;0
-HerbProtectNextButton;727;1937;117;110; 0.5;0.5; 0;0;0;0
+HerbProtectNextButton;727;1937;117;110; 0.5128205128205128;0.5181818181818182; 0;0;0;0
 HexBombButton;111;634;106;110; 0.5;0.5; 0;0;0;0
 HexButton;892;849;102;104; 0.5;0.5; 0;0;0;0
 HunterKillButton;455;1119;110;110; 0.5;0.5; 0;0;0;0
