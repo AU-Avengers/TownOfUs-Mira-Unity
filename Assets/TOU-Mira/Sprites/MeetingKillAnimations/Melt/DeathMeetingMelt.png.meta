@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 8e24a5fcdc4ffff45a065d4cad699360
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crewmate_Melt_0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 885
+        width: 170
+        height: 138
+      alignment: 9
+      pivot: {x: 0.7470588, y: 0.6231884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c357065523a743a14a49eceb334c1
+      internalID: -128609634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 745
+        width: 166
+        height: 138
+      alignment: 9
+      pivot: {x: 0.74698794, y: 0.6231884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd8e018665c17e46994fa9ceaf58547
+      internalID: 1990030519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 612
+        width: 170
+        height: 131
+      alignment: 9
+      pivot: {x: 0.7411765, y: 0.65648854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e15473af8a58c4b8b1d1c62bf57c37
+      internalID: 872022336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 481
+        width: 170
+        height: 129
+      alignment: 9
+      pivot: {x: 0.7411765, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6559d4450c88e48abd31bdf4b6bf76
+      internalID: 974074607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 370
+        width: 169
+        height: 109
+      alignment: 9
+      pivot: {x: 0.73964494, y: 0.78899086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a77ee7a987e9044da825fcdd38ecb82
+      internalID: -434286747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 172
+        height: 89
+      alignment: 9
+      pivot: {x: 0.74418604, y: 0.96629214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bff883aff516244bbde847466299501
+      internalID: -1261262042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 172
+        height: 72
+      alignment: 9
+      pivot: {x: 0.74418604, y: 1.1944444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bcc206a00ca0b45b659a02871d21da
+      internalID: -92671880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 168
+        height: 43
+      alignment: 9
+      pivot: {x: 0.7380952, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f98cd4888dec14c8f40b6165d9a7f0
+      internalID: -564941226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 176
+        height: 27
+      alignment: 9
+      pivot: {x: 0.75, y: 3.1851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9100da7ed962c01489d142ebe616919d
+      internalID: -867169010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0009
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 114
+        width: 52
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 5.733333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92563e643a783dc4182baab4db562afd
+      internalID: -1804105714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0010
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 94
+        width: 55
+        height: 35
+      alignment: 9
+      pivot: {x: 0.43636364, y: 2.2285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0595c63ea74494d99b2ae34464494b
+      internalID: 475030479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 87
+        width: 49
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4489796, y: 1.9047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596b63f7700cc974394b67984242eb66
+      internalID: 1490534797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crewmate_Melt_0012
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1022
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 134, y: -187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e91f705d6a55847b081abe9b454fca
+      internalID: 797512215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: db71e9fe6a9fe30459ce78e9e81805db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crewmate_Melt_0000: -128609634
+      Crewmate_Melt_0001: 1990030519
+      Crewmate_Melt_0002: 872022336
+      Crewmate_Melt_0003: 974074607
+      Crewmate_Melt_0004: -434286747
+      Crewmate_Melt_0005: -1261262042
+      Crewmate_Melt_0006: -92671880
+      Crewmate_Melt_0007: -564941226
+      Crewmate_Melt_0008: -867169010
+      Crewmate_Melt_0009: -1804105714
+      Crewmate_Melt_0010: 475030479
+      Crewmate_Melt_0011: 1490534797
+      Crewmate_Melt_0012: 797512215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

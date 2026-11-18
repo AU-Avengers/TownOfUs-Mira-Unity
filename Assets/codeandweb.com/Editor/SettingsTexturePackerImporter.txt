@@ -4,6 +4,7 @@ tpsheetFileNames:
 - Assets/TOU-Mira/Sprites/AbilitySprites.tpsheet
 - Assets/TOU-Mira/Sprites/CustomPets/BlackMinipostor/BlackMinipostor.tpsheet
 - Assets/TOU-Mira/Sprites/MeetingAbilitySprites.tpsheet
+- Assets/TOU-Mira/Sprites/MeetingKillAnimations/Melt/DeathMeetingMelt.tpsheet
 - Assets/TOU-Mira/Sprites/RoleBannerSprites.tpsheet
 - Assets/TOU-Mira/Sprites/RoleVisuals/AmbusherKillOverlay.tpsheet
 - Assets/TOU-Mira/Sprites/RoleVisuals/Deputy/Deputy_Kill_Intro-Body.tpsheet
@@ -27,6 +28,7 @@ textureFileNames:
 - Assets/TOU-Mira/Sprites/AbilitySprites.png
 - Assets/TOU-Mira/Sprites/CustomPets/BlackMinipostor/BlackMinipostor.png
 - Assets/TOU-Mira/Sprites/MeetingAbilitySprites.png
+- Assets/TOU-Mira/Sprites/MeetingKillAnimations/Melt/DeathMeetingMelt.png
 - Assets/TOU-Mira/Sprites/RoleBannerSprites.png
 - Assets/TOU-Mira/Sprites/RoleVisuals/AmbusherKillOverlay.png
 - Assets/TOU-Mira/Sprites/RoleVisuals/Deputy/Deputy_Kill_Intro-Body.png
@@ -47,6 +49,7 @@ textureFileNames:
 - Assets/TOU-Mira/Sprites/UiSprites.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
 - 
 - 
 - 
